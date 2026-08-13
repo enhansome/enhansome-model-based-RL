@@ -1614,7 +1614,7 @@
                 "last_commit": "2026-06-17T13:51:27Z",
                 "owner": "google-deepmind",
                 "repo": "deepmind-research",
-                "stars": 15149
+                "stars": 15150
               }
             }
           ]
@@ -1998,7 +1998,7 @@
                 "last_commit": "2023-07-13T09:52:27Z",
                 "owner": "dennybritz",
                 "repo": "reinforcement-learning",
-                "stars": 22111
+                "stars": 22112
               }
             }
           ]
@@ -2751,7 +2751,7 @@
                 "last_commit": "2026-06-17T13:51:27Z",
                 "owner": "google-deepmind",
                 "repo": "deepmind-research",
-                "stars": 15149
+                "stars": 15150
               }
             }
           ]
@@ -3009,7 +3009,7 @@
                 "last_commit": "2026-06-17T13:51:27Z",
                 "owner": "google-deepmind",
                 "repo": "deepmind-research",
-                "stars": 15149
+                "stars": 15150
               }
             }
           ]
@@ -3453,7 +3453,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T04:27:17.452Z",
+    "last_updated": "2026-08-13T06:03:55.076Z",
     "original_repository": "opendilab/awesome-model-based-RL",
     "original_repository_sha": "8e3dc99f2851282fc94f8881abbb4387bc6e15a9",
     "enhanced_repository": "enhansome/enhansome-model-based-RL",
