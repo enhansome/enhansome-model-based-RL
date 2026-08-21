@@ -66,7 +66,7 @@
                     "last_commit": "2026-03-26T23:13:27Z",
                     "owner": "openai",
                     "repo": "gym",
-                    "stars": 37239
+                    "stars": 37240
                   }
                 }
               ]
@@ -110,7 +110,7 @@
                     "last_commit": "2026-03-26T23:13:27Z",
                     "owner": "openai",
                     "repo": "gym",
-                    "stars": 37239
+                    "stars": 37240
                   }
                 }
               ]
@@ -132,7 +132,7 @@
                     "last_commit": "2026-03-26T23:13:27Z",
                     "owner": "openai",
                     "repo": "gym",
-                    "stars": 37239
+                    "stars": 37240
                   }
                 }
               ]
@@ -217,7 +217,7 @@
                     "archived": false,
                     "id": 115744122,
                     "language": "Python",
-                    "last_commit": "2026-08-06T00:15:16Z",
+                    "last_commit": "2026-08-20T14:19:29Z",
                     "owner": "google-deepmind",
                     "repo": "dm_control",
                     "stars": 4668
@@ -264,7 +264,7 @@
                     "last_commit": "2026-03-26T23:13:27Z",
                     "owner": "openai",
                     "repo": "gym",
-                    "stars": 37239
+                    "stars": 37240
                   }
                 }
               ]
@@ -359,7 +359,7 @@
                     "last_commit": "2026-07-11T23:47:48Z",
                     "owner": "ARISE-Initiative",
                     "repo": "robosuite",
-                    "stars": 2560
+                    "stars": 2563
                   }
                 }
               ]
@@ -432,7 +432,7 @@
                     "last_commit": "2025-01-25T13:13:19Z",
                     "owner": "stepjam",
                     "repo": "RLBench",
-                    "stars": 1810
+                    "stars": 1811
                   }
                 }
               ]
@@ -473,7 +473,7 @@
                     "archived": false,
                     "id": 115744122,
                     "language": "Python",
-                    "last_commit": "2026-08-06T00:15:16Z",
+                    "last_commit": "2026-08-20T14:19:29Z",
                     "owner": "google-deepmind",
                     "repo": "dm_control",
                     "stars": 4668
@@ -495,7 +495,7 @@
                     "archived": false,
                     "id": 115744122,
                     "language": "Python",
-                    "last_commit": "2026-08-06T00:15:16Z",
+                    "last_commit": "2026-08-20T14:19:29Z",
                     "owner": "google-deepmind",
                     "repo": "dm_control",
                     "stars": 4668
@@ -520,7 +520,7 @@
                     "last_commit": "2026-03-26T23:13:27Z",
                     "owner": "openai",
                     "repo": "gym",
-                    "stars": 37239
+                    "stars": 37240
                   }
                 }
               ]
@@ -542,7 +542,7 @@
                     "last_commit": "2026-03-26T23:13:27Z",
                     "owner": "openai",
                     "repo": "gym",
-                    "stars": 37239
+                    "stars": 37240
                   }
                 }
               ]
@@ -564,7 +564,7 @@
                     "last_commit": "2026-03-26T23:13:27Z",
                     "owner": "openai",
                     "repo": "gym",
-                    "stars": 37239
+                    "stars": 37240
                   }
                 }
               ]
@@ -637,7 +637,7 @@
                     "last_commit": "2026-08-06T05:37:37Z",
                     "owner": "Farama-Foundation",
                     "repo": "Minigrid",
-                    "stars": 2498
+                    "stars": 2496
                   }
                 }
               ]
@@ -681,7 +681,7 @@
                     "last_commit": "2026-08-02T17:38:14Z",
                     "owner": "Farama-Foundation",
                     "repo": "Gymnasium-Robotics",
-                    "stars": 958
+                    "stars": 959
                   }
                 }
               ]
@@ -700,7 +700,7 @@
                     "archived": false,
                     "id": 115744122,
                     "language": "Python",
-                    "last_commit": "2026-08-06T00:15:16Z",
+                    "last_commit": "2026-08-20T14:19:29Z",
                     "owner": "google-deepmind",
                     "repo": "dm_control",
                     "stars": 4668
@@ -791,7 +791,7 @@
                     "last_commit": "2024-02-18T19:49:08Z",
                     "owner": "oxwhirl",
                     "repo": "smac",
-                    "stars": 1364
+                    "stars": 1365
                   }
                 }
               ]
@@ -810,7 +810,7 @@
                     "archived": false,
                     "id": 115744122,
                     "language": "Python",
-                    "last_commit": "2026-08-06T00:15:16Z",
+                    "last_commit": "2026-08-20T14:19:29Z",
                     "owner": "google-deepmind",
                     "repo": "dm_control",
                     "stars": 4668
@@ -974,7 +974,7 @@
                     "last_commit": "2026-08-06T05:37:37Z",
                     "owner": "Farama-Foundation",
                     "repo": "Minigrid",
-                    "stars": 2498
+                    "stars": 2496
                   }
                 }
               ]
@@ -1037,10 +1037,10 @@
                     "archived": false,
                     "id": 547667434,
                     "language": "Python",
-                    "last_commit": "2026-08-17T13:50:51Z",
+                    "last_commit": "2026-08-21T04:33:40Z",
                     "owner": "opendilab",
                     "repo": "LightZero",
-                    "stars": 1633
+                    "stars": 1634
                   }
                 }
               ]
@@ -1081,7 +1081,7 @@
                     "archived": false,
                     "id": 115744122,
                     "language": "Python",
-                    "last_commit": "2026-08-06T00:15:16Z",
+                    "last_commit": "2026-08-20T14:19:29Z",
                     "owner": "google-deepmind",
                     "repo": "dm_control",
                     "stars": 4668
@@ -1125,7 +1125,7 @@
                     "archived": false,
                     "id": 115744122,
                     "language": "Python",
-                    "last_commit": "2026-08-06T00:15:16Z",
+                    "last_commit": "2026-08-20T14:19:29Z",
                     "owner": "google-deepmind",
                     "repo": "dm_control",
                     "stars": 4668
@@ -1150,7 +1150,7 @@
                     "last_commit": "2026-03-26T23:13:27Z",
                     "owner": "openai",
                     "repo": "gym",
-                    "stars": 37239
+                    "stars": 37240
                   }
                 }
               ]
@@ -1194,7 +1194,7 @@
                     "last_commit": "2026-03-26T23:13:27Z",
                     "owner": "openai",
                     "repo": "gym",
-                    "stars": 37239
+                    "stars": 37240
                   }
                 }
               ]
@@ -1213,7 +1213,7 @@
                     "archived": false,
                     "id": 115744122,
                     "language": "Python",
-                    "last_commit": "2026-08-06T00:15:16Z",
+                    "last_commit": "2026-08-20T14:19:29Z",
                     "owner": "google-deepmind",
                     "repo": "dm_control",
                     "stars": 4668
@@ -1238,7 +1238,7 @@
                     "last_commit": "2026-03-26T23:13:27Z",
                     "owner": "openai",
                     "repo": "gym",
-                    "stars": 37239
+                    "stars": 37240
                   }
                 }
               ]
@@ -1355,7 +1355,7 @@
                     "last_commit": "2024-01-23T23:33:05Z",
                     "owner": "danijar",
                     "repo": "crafter",
-                    "stars": 583
+                    "stars": 582
                   }
                 }
               ]
@@ -1440,7 +1440,7 @@
                     "archived": false,
                     "id": 115744122,
                     "language": "Python",
-                    "last_commit": "2026-08-06T00:15:16Z",
+                    "last_commit": "2026-08-20T14:19:29Z",
                     "owner": "google-deepmind",
                     "repo": "dm_control",
                     "stars": 4668
@@ -1484,7 +1484,7 @@
                     "archived": false,
                     "id": 115744122,
                     "language": "Python",
-                    "last_commit": "2026-08-06T00:15:16Z",
+                    "last_commit": "2026-08-20T14:19:29Z",
                     "owner": "google-deepmind",
                     "repo": "dm_control",
                     "stars": 4668
@@ -1509,7 +1509,7 @@
                     "last_commit": "2024-01-23T23:33:05Z",
                     "owner": "danijar",
                     "repo": "crafter",
-                    "stars": 583
+                    "stars": 582
                   }
                 }
               ]
@@ -1528,7 +1528,7 @@
                     "archived": false,
                     "id": 115744122,
                     "language": "Python",
-                    "last_commit": "2026-08-06T00:15:16Z",
+                    "last_commit": "2026-08-20T14:19:29Z",
                     "owner": "google-deepmind",
                     "repo": "dm_control",
                     "stars": 4668
@@ -1553,7 +1553,7 @@
                     "last_commit": "2026-03-26T23:13:27Z",
                     "owner": "openai",
                     "repo": "gym",
-                    "stars": 37239
+                    "stars": 37240
                   }
                 }
               ]
@@ -1604,7 +1604,7 @@
                     "last_commit": "2026-03-26T23:13:27Z",
                     "owner": "openai",
                     "repo": "gym",
-                    "stars": 37239
+                    "stars": 37240
                   }
                 }
               ]
@@ -1692,7 +1692,7 @@
                     "last_commit": "2026-06-17T13:51:27Z",
                     "owner": "google-deepmind",
                     "repo": "deepmind-research",
-                    "stars": 15159
+                    "stars": 15158
                   }
                 }
               ]
@@ -1758,7 +1758,7 @@
                     "last_commit": "2026-07-20T18:15:17Z",
                     "owner": "aravindr93",
                     "repo": "mjrl",
-                    "stars": 467
+                    "stars": 465
                   }
                 }
               ]
@@ -1802,7 +1802,7 @@
                     "last_commit": "2026-08-06T15:04:10Z",
                     "owner": "google",
                     "repo": "brax",
-                    "stars": 3221
+                    "stars": 3223
                   }
                 }
               ]
@@ -1821,7 +1821,7 @@
                     "archived": false,
                     "id": 115744122,
                     "language": "Python",
-                    "last_commit": "2026-08-06T00:15:16Z",
+                    "last_commit": "2026-08-20T14:19:29Z",
                     "owner": "google-deepmind",
                     "repo": "dm_control",
                     "stars": 4668
@@ -1890,7 +1890,7 @@
                     "last_commit": "2026-03-26T23:13:27Z",
                     "owner": "openai",
                     "repo": "gym",
-                    "stars": 37239
+                    "stars": 37240
                   }
                 }
               ]
@@ -1912,7 +1912,7 @@
                     "last_commit": "2026-03-26T23:13:27Z",
                     "owner": "openai",
                     "repo": "gym",
-                    "stars": 37239
+                    "stars": 37240
                   }
                 }
               ]
@@ -1934,7 +1934,7 @@
                     "last_commit": "2026-03-26T23:13:27Z",
                     "owner": "openai",
                     "repo": "gym",
-                    "stars": 37239
+                    "stars": 37240
                   }
                 }
               ]
@@ -1956,7 +1956,7 @@
                     "last_commit": "2026-03-26T23:13:27Z",
                     "owner": "openai",
                     "repo": "gym",
-                    "stars": 37239
+                    "stars": 37240
                   }
                 }
               ]
@@ -1997,7 +1997,7 @@
                     "archived": false,
                     "id": 115744122,
                     "language": "Python",
-                    "last_commit": "2026-08-06T00:15:16Z",
+                    "last_commit": "2026-08-20T14:19:29Z",
                     "owner": "google-deepmind",
                     "repo": "dm_control",
                     "stars": 4668
@@ -2139,7 +2139,7 @@
                     "last_commit": "2024-07-23T16:54:42Z",
                     "owner": "google-deepmind",
                     "repo": "pysc2",
-                    "stars": 8306
+                    "stars": 8307
                   }
                 }
               ]
@@ -2315,7 +2315,7 @@
                     "last_commit": "2023-07-13T09:52:27Z",
                     "owner": "dennybritz",
                     "repo": "reinforcement-learning",
-                    "stars": 22109
+                    "stars": 22112
                   }
                 }
               ]
@@ -2381,7 +2381,7 @@
                     "last_commit": "2026-03-26T23:13:27Z",
                     "owner": "openai",
                     "repo": "gym",
-                    "stars": 37239
+                    "stars": 37240
                   }
                 }
               ]
@@ -2400,7 +2400,7 @@
                     "archived": false,
                     "id": 115744122,
                     "language": "Python",
-                    "last_commit": "2026-08-06T00:15:16Z",
+                    "last_commit": "2026-08-20T14:19:29Z",
                     "owner": "google-deepmind",
                     "repo": "dm_control",
                     "stars": 4668
@@ -2429,7 +2429,7 @@
                     "archived": false,
                     "id": 115744122,
                     "language": "Python",
-                    "last_commit": "2026-08-06T00:15:16Z",
+                    "last_commit": "2026-08-20T14:19:29Z",
                     "owner": "google-deepmind",
                     "repo": "dm_control",
                     "stars": 4668
@@ -2451,7 +2451,7 @@
                     "archived": false,
                     "id": 115744122,
                     "language": "Python",
-                    "last_commit": "2026-08-06T00:15:16Z",
+                    "last_commit": "2026-08-20T14:19:29Z",
                     "owner": "google-deepmind",
                     "repo": "dm_control",
                     "stars": 4668
@@ -2476,7 +2476,7 @@
                     "last_commit": "2026-03-26T23:13:27Z",
                     "owner": "openai",
                     "repo": "gym",
-                    "stars": 37239
+                    "stars": 37240
                   }
                 }
               ]
@@ -2583,7 +2583,7 @@
                     "archived": false,
                     "id": 115744122,
                     "language": "Python",
-                    "last_commit": "2026-08-06T00:15:16Z",
+                    "last_commit": "2026-08-20T14:19:29Z",
                     "owner": "google-deepmind",
                     "repo": "dm_control",
                     "stars": 4668
@@ -2659,7 +2659,7 @@
                     "last_commit": "2026-03-26T23:13:27Z",
                     "owner": "openai",
                     "repo": "gym",
-                    "stars": 37239
+                    "stars": 37240
                   }
                 }
               ]
@@ -2725,7 +2725,7 @@
                     "last_commit": "2026-03-26T23:13:27Z",
                     "owner": "openai",
                     "repo": "gym",
-                    "stars": 37239
+                    "stars": 37240
                   }
                 }
               ]
@@ -2744,7 +2744,7 @@
                     "archived": false,
                     "id": 115744122,
                     "language": "Python",
-                    "last_commit": "2026-08-06T00:15:16Z",
+                    "last_commit": "2026-08-20T14:19:29Z",
                     "owner": "google-deepmind",
                     "repo": "dm_control",
                     "stars": 4668
@@ -2769,7 +2769,7 @@
                     "last_commit": "2026-03-26T23:13:27Z",
                     "owner": "openai",
                     "repo": "gym",
-                    "stars": 37239
+                    "stars": 37240
                   }
                 }
               ]
@@ -2788,7 +2788,7 @@
                     "archived": false,
                     "id": 115744122,
                     "language": "Python",
-                    "last_commit": "2026-08-06T00:15:16Z",
+                    "last_commit": "2026-08-20T14:19:29Z",
                     "owner": "google-deepmind",
                     "repo": "dm_control",
                     "stars": 4668
@@ -2993,7 +2993,7 @@
                     "archived": false,
                     "id": 115744122,
                     "language": "Python",
-                    "last_commit": "2026-08-06T00:15:16Z",
+                    "last_commit": "2026-08-20T14:19:29Z",
                     "owner": "google-deepmind",
                     "repo": "dm_control",
                     "stars": 4668
@@ -3018,7 +3018,7 @@
                     "last_commit": "2026-03-26T23:13:27Z",
                     "owner": "openai",
                     "repo": "gym",
-                    "stars": 37239
+                    "stars": 37240
                   }
                 }
               ]
@@ -3062,7 +3062,7 @@
                     "last_commit": "2026-08-06T05:37:37Z",
                     "owner": "Farama-Foundation",
                     "repo": "Minigrid",
-                    "stars": 2498
+                    "stars": 2496
                   }
                 }
               ]
@@ -3084,7 +3084,7 @@
                     "last_commit": "2026-03-26T23:13:27Z",
                     "owner": "openai",
                     "repo": "gym",
-                    "stars": 37239
+                    "stars": 37240
                   }
                 }
               ]
@@ -3106,7 +3106,7 @@
                     "last_commit": "2026-06-17T13:51:27Z",
                     "owner": "google-deepmind",
                     "repo": "deepmind-research",
-                    "stars": 15159
+                    "stars": 15158
                   }
                 }
               ]
@@ -3128,7 +3128,7 @@
                     "last_commit": "2026-03-26T23:13:27Z",
                     "owner": "openai",
                     "repo": "gym",
-                    "stars": 37239
+                    "stars": 37240
                   }
                 }
               ]
@@ -3150,7 +3150,7 @@
                     "last_commit": "2026-08-06T05:37:37Z",
                     "owner": "Farama-Foundation",
                     "repo": "Minigrid",
-                    "stars": 2498
+                    "stars": 2496
                   }
                 }
               ]
@@ -3333,7 +3333,7 @@
                     "last_commit": "2026-03-26T23:13:27Z",
                     "owner": "openai",
                     "repo": "gym",
-                    "stars": 37239
+                    "stars": 37240
                   }
                 }
               ]
@@ -3377,7 +3377,7 @@
                     "last_commit": "2026-06-17T13:51:27Z",
                     "owner": "google-deepmind",
                     "repo": "deepmind-research",
-                    "stars": 15159
+                    "stars": 15158
                   }
                 }
               ]
@@ -3421,7 +3421,7 @@
                     "last_commit": "2026-03-26T23:13:27Z",
                     "owner": "openai",
                     "repo": "gym",
-                    "stars": 37239
+                    "stars": 37240
                   }
                 }
               ]
@@ -3465,7 +3465,7 @@
                     "last_commit": "2026-03-26T23:13:27Z",
                     "owner": "openai",
                     "repo": "gym",
-                    "stars": 37239
+                    "stars": 37240
                   }
                 }
               ]
@@ -3516,7 +3516,7 @@
                     "last_commit": "2026-03-26T23:13:27Z",
                     "owner": "openai",
                     "repo": "gym",
-                    "stars": 37239
+                    "stars": 37240
                   }
                 }
               ]
@@ -3582,7 +3582,7 @@
                     "last_commit": "2026-03-26T23:13:27Z",
                     "owner": "openai",
                     "repo": "gym",
-                    "stars": 37239
+                    "stars": 37240
                   }
                 }
               ]
@@ -3626,7 +3626,7 @@
                     "last_commit": "2026-03-26T23:13:27Z",
                     "owner": "openai",
                     "repo": "gym",
-                    "stars": 37239
+                    "stars": 37240
                   }
                 }
               ]
@@ -3645,7 +3645,7 @@
                     "archived": false,
                     "id": 115744122,
                     "language": "Python",
-                    "last_commit": "2026-08-06T00:15:16Z",
+                    "last_commit": "2026-08-20T14:19:29Z",
                     "owner": "google-deepmind",
                     "repo": "dm_control",
                     "stars": 4668
@@ -3670,7 +3670,7 @@
                     "last_commit": "2026-03-26T23:13:27Z",
                     "owner": "openai",
                     "repo": "gym",
-                    "stars": 37239
+                    "stars": 37240
                   }
                 }
               ]
@@ -3718,7 +3718,7 @@
                     "archived": false,
                     "id": 115744122,
                     "language": "Python",
-                    "last_commit": "2026-08-06T00:15:16Z",
+                    "last_commit": "2026-08-20T14:19:29Z",
                     "owner": "google-deepmind",
                     "repo": "dm_control",
                     "stars": 4668
@@ -3762,7 +3762,7 @@
                     "archived": false,
                     "id": 115744122,
                     "language": "Python",
-                    "last_commit": "2026-08-06T00:15:16Z",
+                    "last_commit": "2026-08-20T14:19:29Z",
                     "owner": "google-deepmind",
                     "repo": "dm_control",
                     "stars": 4668
@@ -3838,7 +3838,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T05:07:40.740Z",
+    "last_updated": "2026-08-21T05:08:42.492Z",
     "original_repository": "opendilab/awesome-model-based-RL",
     "original_repository_id": 442372448,
     "original_repository_sha": "8e3dc99f2851282fc94f8881abbb4387bc6e15a9",
