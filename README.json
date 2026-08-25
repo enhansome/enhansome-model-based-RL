@@ -1527,7 +1527,7 @@
                 "last_commit": "2024-01-23T23:33:05Z",
                 "owner": "danijar",
                 "repo": "crafter",
-                "stars": 583
+                "stars": 584
               }
             }
           ]
@@ -1681,7 +1681,7 @@
                 "last_commit": "2024-01-23T23:33:05Z",
                 "owner": "danijar",
                 "repo": "crafter",
-                "stars": 583
+                "stars": 584
               }
             }
           ]
@@ -3881,7 +3881,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T05:09:01.383Z",
+    "last_updated": "2026-08-25T06:03:53.513Z",
     "original_repository": "opendilab/awesome-model-based-RL",
     "original_repository_id": 442372448,
     "original_repository_sha": "8e3dc99f2851282fc94f8881abbb4387bc6e15a9",
