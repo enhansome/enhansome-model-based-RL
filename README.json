@@ -1210,7 +1210,7 @@
                 "archived": false,
                 "id": 547667434,
                 "language": "Python",
-                "last_commit": "2026-08-27T10:27:22Z",
+                "last_commit": "2026-08-27T15:02:06Z",
                 "owner": "opendilab",
                 "repo": "LightZero",
                 "stars": 1638
@@ -3881,7 +3881,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:51:22.013Z",
+    "last_updated": "2026-08-27T15:27:57.054Z",
     "original_repository_info": {
       "archived": false,
       "id": 442372448,
