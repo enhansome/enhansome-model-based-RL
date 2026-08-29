@@ -1,6 +1,6 @@
 # Awesome Model-Based Reinforcement Learning with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 500,779 | 🐛 105 | 📅 2026-08-21 [![docs](https://img.shields.io/badge/docs-latest-blue)](https://github.com/opendilab/awesome-model-based-RL) ⭐ 1,393 | 🐛 0 | 📅 2026-05-21 ![GitHub stars](https://img.shields.io/github/stars/opendilab/awesome-model-based-RL?color=yellow) ![GitHub forks](https://img.shields.io/github/forks/opendilab/awesome-model-based-RL?color=9cf) [![GitHub license](https://img.shields.io/github/license/opendilab/awesome-model-based-RL)](https://github.com/opendilab/awesome-model-based-RL/blob/main/LICENSE) ⭐ 1,393 | 🐛 0 | 📅 2026-05-21
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 500,891 | 🐛 105 | 📅 2026-08-21 [![docs](https://img.shields.io/badge/docs-latest-blue)](https://github.com/opendilab/awesome-model-based-RL) ⭐ 1,393 | 🐛 0 | 📅 2026-05-21 ![GitHub stars](https://img.shields.io/github/stars/opendilab/awesome-model-based-RL?color=yellow) ![GitHub forks](https://img.shields.io/github/forks/opendilab/awesome-model-based-RL?color=9cf) [![GitHub license](https://img.shields.io/github/license/opendilab/awesome-model-based-RL)](https://github.com/opendilab/awesome-model-based-RL/blob/main/LICENSE) ⭐ 1,393 | 🐛 0 | 📅 2026-05-21
 
 This is a collection of research papers for **model-based reinforcement learning (mbrl)**.
 And the repository will be continuously updated to track the frontier of model-based rl.
@@ -760,7 +760,7 @@ format:
   * ExpEnv: D4RL
 
 * [WorldCoder, a Model-Based LLM Agent: Building World Models by Writing Code and Interacting with the Environment](https://arxiv.org/abs/2402.12275)
-  * ExpEnv: [sokoban](https://github.com/mpSchrader/gym-sokoban) ⭐ 409 | 🐛 15 | 🌐 Python | 📅 2023-11-08, [minigrid](https://github.com/Farama-Foundation/Minigrid) ⭐ 2,501 | 🐛 23 | 🌐 Python | 📅 2026-08-24, [alfworld](https://github.com/alfworld/alfworld) ⭐ 846 | 🐛 14 | 🌐 Python | 📅 2026-02-08
+  * ExpEnv: [sokoban](https://github.com/mpSchrader/gym-sokoban) ⭐ 409 | 🐛 15 | 🌐 Python | 📅 2023-11-08, [minigrid](https://github.com/Farama-Foundation/Minigrid) ⭐ 2,501 | 🐛 23 | 🌐 Python | 📅 2026-08-24, [alfworld](https://github.com/alfworld/alfworld) ⭐ 847 | 🐛 14 | 🌐 Python | 📅 2026-02-08
   * Hao Tang, Darren Key, Kevin Ellis
   * Key: learn world models as code, LLM
 
@@ -1206,7 +1206,7 @@ format:
   * OpenReview: 8, 8, 6, 6
 
 * [Efficient Offline Policy Optimization with a Learned Model](https://openreview.net/forum?id=Yt-yM-JbYFO)
-  * ExpEnv: [atari dataset](https://github.com/deepmind/deepmind-research/tree/master/rl_unplugged) ⭐ 15,170 | 🐛 358 | 🌐 Jupyter Notebook | 📅 2026-06-17
+  * ExpEnv: [atari dataset](https://github.com/deepmind/deepmind-research/tree/master/rl_unplugged) ⭐ 15,173 | 🐛 358 | 🌐 Jupyter Notebook | 📅 2026-06-17
   * Zichen Liu, Siyi Li, Wee Sun Lee, Shuicheng YAN, Zhongwen Xu
   * Key: offline rl, analysis of MuZero Unplugged, one-step look-ahead policy improvement
   * OpenReview: 8, 6, 5
@@ -1242,7 +1242,7 @@ format:
   - ExpEnv: [ProcMaze, ButtonGrid, PanFlute]() -->
 
 * [Diminishing Return of Value Expansion Methods in Model-Based Reinforcement Learning](https://openreview.net/forum?id=H4Ncs5jhTCu)
-  * ExpEnv: [brax](https://github.com/google/brax) ⭐ 3,225 | 🐛 109 | 🌐 Jupyter Notebook | 📅 2026-08-06
+  * ExpEnv: [brax](https://github.com/google/brax) ⭐ 3,227 | 🐛 109 | 🌐 Jupyter Notebook | 📅 2026-08-06
   * Daniel Palenicek, Michael Lutter, Joao Carvalho, Jan Peters
   * Key: longer horizons yield diminishing returns in terms of sample efficiency
   * OpenReview: 8, 6, 6, 6
@@ -1543,7 +1543,7 @@ format:
   * OpenReview: 8, 8, 8, 6
 
 * [Transfer RL across Observation Feature Spaces via Model-Based Regularization](https://openreview.net/forum?id=7KdAoOsI81C)
-  * ExpEnv: [CartPole, Acrobot and Cheetah-Run](https://github.com/openai/gym) ⚠️ Archived, [mujoco](https://github.com/openai/mujoco-py) ⚠️ Archived, [3DBall](https://github.com/Unity-Technologies/ml-agents) ⭐ 19,651 | 🐛 21 | 🌐 C# | 📅 2026-08-25
+  * ExpEnv: [CartPole, Acrobot and Cheetah-Run](https://github.com/openai/gym) ⚠️ Archived, [mujoco](https://github.com/openai/mujoco-py) ⚠️ Archived, [3DBall](https://github.com/Unity-Technologies/ml-agents) ⭐ 19,653 | 🐛 21 | 🌐 C# | 📅 2026-08-25
   * Yanchao Sun, Ruijie Zheng, Xiyao Wang, Andrew E Cohen, Furong Huang
   * Key: latent dynamics model, transfer RL
   * OpenReview: 8, 6, 5, 5
@@ -1646,7 +1646,7 @@ format:
   * OpenReview: 7, 7, 7, 5
 
 * [Online and Offline Reinforcement Learning by Planning with a Learned Model](https://openreview.net/forum?id=HKtsGW-lNbw)
-  * ExpEnv: [atrai dataset, deepmind control suite dataset](https://github.com/deepmind/deepmind-research/tree/master/rl_unplugged) ⭐ 15,170 | 🐛 358 | 🌐 Jupyter Notebook | 📅 2026-06-17
+  * ExpEnv: [atrai dataset, deepmind control suite dataset](https://github.com/deepmind/deepmind-research/tree/master/rl_unplugged) ⭐ 15,173 | 🐛 358 | 🌐 Jupyter Notebook | 📅 2026-06-17
   * Julian Schrittwieser, Thomas K Hubert, Amol Mandhane, Mohammadamin Barekatain, Ioannis Antonoglou, David Silver
   * Key: muzero, reanalyse, offline
   * OpenReview: 8, 8, 7, 6
@@ -1743,7 +1743,7 @@ format:
   * OpenReview: 7, 7, 7, 7
 
 * [Model-Based Offline Planning](https://arxiv.org/abs/2008.05556)
-  * ExpEnv: [RL Unplugged(RLU)](https://github.com/deepmind/deepmind-research/tree/master/rl_unplugged) ⭐ 15,170 | 🐛 358 | 🌐 Jupyter Notebook | 📅 2026-06-17, [d4rl dataset](https://github.com/rail-berkeley/d4rl) ⭐ 1,700 | 🐛 107 | 🌐 Python | 📅 2024-11-18
+  * ExpEnv: [RL Unplugged(RLU)](https://github.com/deepmind/deepmind-research/tree/master/rl_unplugged) ⭐ 15,173 | 🐛 358 | 🌐 Jupyter Notebook | 📅 2026-06-17, [d4rl dataset](https://github.com/rail-berkeley/d4rl) ⭐ 1,700 | 🐛 107 | 🌐 Python | 📅 2024-11-18
   * Arthur Argenson, Gabriel Dulac-Arnold
   * Key: model-based, offline
   * OpenReview: 8, 7, 5, 5
@@ -1900,4 +1900,4 @@ Awesome Model-Based RL is released under the Apache 2.0 license.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-28._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-29._
