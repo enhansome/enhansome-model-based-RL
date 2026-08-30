@@ -26,7 +26,7 @@
                     "open_issues": 107,
                     "owner": "Farama-Foundation",
                     "repo": "D4RL",
-                    "stars": 1700,
+                    "stars": 1701,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T16:54:20.214Z"
@@ -50,7 +50,7 @@
                     "id": 115744122,
                     "language": "Python",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-08-20T14:19:29Z",
+                    "last_commit": "2026-08-29T12:23:09Z",
                     "open_issues": 128,
                     "owner": "google-deepmind",
                     "repo": "dm_control",
@@ -114,7 +114,7 @@
                     "id": 115744122,
                     "language": "Python",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-08-20T14:19:29Z",
+                    "last_commit": "2026-08-29T12:23:09Z",
                     "open_issues": 128,
                     "owner": "google-deepmind",
                     "repo": "dm_control",
@@ -249,7 +249,7 @@
                 "open_issues": 128,
                 "owner": "openai",
                 "repo": "gym",
-                "stars": 37245,
+                "stars": 37244,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:54:20.214Z"
@@ -305,7 +305,7 @@
                 "open_issues": 128,
                 "owner": "openai",
                 "repo": "gym",
-                "stars": 37245,
+                "stars": 37244,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:54:20.214Z"
@@ -333,7 +333,7 @@
                 "open_issues": 128,
                 "owner": "openai",
                 "repo": "gym",
-                "stars": 37245,
+                "stars": 37244,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:54:20.214Z"
@@ -441,7 +441,7 @@
                 "id": 115744122,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-08-20T14:19:29Z",
+                "last_commit": "2026-08-29T12:23:09Z",
                 "open_issues": 128,
                 "owner": "google-deepmind",
                 "repo": "dm_control",
@@ -509,7 +509,7 @@
                 "open_issues": 128,
                 "owner": "openai",
                 "repo": "gym",
-                "stars": 37245,
+                "stars": 37244,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:54:20.214Z"
@@ -573,7 +573,7 @@
                 "id": 115744122,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-08-20T14:19:29Z",
+                "last_commit": "2026-08-29T12:23:09Z",
                 "open_issues": 128,
                 "owner": "google-deepmind",
                 "repo": "dm_control",
@@ -654,7 +654,7 @@
                 "open_issues": 107,
                 "owner": "Farama-Foundation",
                 "repo": "D4RL",
-                "stars": 1700,
+                "stars": 1701,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:54:20.214Z"
@@ -682,7 +682,7 @@
                 "open_issues": 107,
                 "owner": "Farama-Foundation",
                 "repo": "D4RL",
-                "stars": 1700,
+                "stars": 1701,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:54:20.214Z"
@@ -778,7 +778,7 @@
                 "open_issues": 13,
                 "owner": "Farama-Foundation",
                 "repo": "Metaworld",
-                "stars": 1874,
+                "stars": 1875,
                 "topics": [
                   "benchmark-environments",
                   "meta-rl",
@@ -839,7 +839,7 @@
                 "open_issues": 1,
                 "owner": "Valarzz",
                 "repo": "DLPA",
-                "stars": 30,
+                "stars": 31,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:54:20.214Z"
@@ -863,7 +863,7 @@
                 "id": 115744122,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-08-20T14:19:29Z",
+                "last_commit": "2026-08-29T12:23:09Z",
                 "open_issues": 128,
                 "owner": "google-deepmind",
                 "repo": "dm_control",
@@ -899,7 +899,7 @@
                 "id": 115744122,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-08-20T14:19:29Z",
+                "last_commit": "2026-08-29T12:23:09Z",
                 "open_issues": 128,
                 "owner": "google-deepmind",
                 "repo": "dm_control",
@@ -939,7 +939,7 @@
                 "open_issues": 128,
                 "owner": "openai",
                 "repo": "gym",
-                "stars": 37245,
+                "stars": 37244,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:54:20.214Z"
@@ -967,7 +967,7 @@
                 "open_issues": 128,
                 "owner": "openai",
                 "repo": "gym",
-                "stars": 37245,
+                "stars": 37244,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:54:20.214Z"
@@ -995,7 +995,7 @@
                 "open_issues": 128,
                 "owner": "openai",
                 "repo": "gym",
-                "stars": 37245,
+                "stars": 37244,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:54:20.214Z"
@@ -1029,7 +1029,7 @@
                 "open_issues": 107,
                 "owner": "Farama-Foundation",
                 "repo": "D4RL",
-                "stars": 1700,
+                "stars": 1701,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:54:20.214Z"
@@ -1085,7 +1085,7 @@
                 "open_issues": 23,
                 "owner": "Farama-Foundation",
                 "repo": "Minigrid",
-                "stars": 2501,
+                "stars": 2502,
                 "topics": [
                   "gridworld-environment",
                   "gymnasium",
@@ -1176,7 +1176,7 @@
                 "id": 115744122,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-08-20T14:19:29Z",
+                "last_commit": "2026-08-29T12:23:09Z",
                 "open_issues": 128,
                 "owner": "google-deepmind",
                 "repo": "dm_control",
@@ -1330,7 +1330,7 @@
                 "id": 115744122,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-08-20T14:19:29Z",
+                "last_commit": "2026-08-29T12:23:09Z",
                 "open_issues": 128,
                 "owner": "google-deepmind",
                 "repo": "dm_control",
@@ -1370,7 +1370,7 @@
                 "open_issues": 107,
                 "owner": "Farama-Foundation",
                 "repo": "D4RL",
-                "stars": 1700,
+                "stars": 1701,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:54:20.214Z"
@@ -1426,7 +1426,7 @@
                 "open_issues": 107,
                 "owner": "Farama-Foundation",
                 "repo": "D4RL",
-                "stars": 1700,
+                "stars": 1701,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:54:20.214Z"
@@ -1544,7 +1544,7 @@
                 "open_issues": 23,
                 "owner": "Farama-Foundation",
                 "repo": "Minigrid",
-                "stars": 2501,
+                "stars": 2502,
                 "topics": [
                   "gridworld-environment",
                   "gymnasium",
@@ -1604,7 +1604,7 @@
                 "open_issues": 107,
                 "owner": "Farama-Foundation",
                 "repo": "D4RL",
-                "stars": 1700,
+                "stars": 1701,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:54:20.214Z"
@@ -1632,7 +1632,7 @@
                 "open_issues": 52,
                 "owner": "opendilab",
                 "repo": "LightZero",
-                "stars": 1638,
+                "stars": 1640,
                 "topics": [
                   "alpha-beta-pruning",
                   "alphazero",
@@ -1681,7 +1681,7 @@
                 "open_issues": 13,
                 "owner": "Farama-Foundation",
                 "repo": "Metaworld",
-                "stars": 1874,
+                "stars": 1875,
                 "topics": [
                   "benchmark-environments",
                   "meta-rl",
@@ -1710,7 +1710,7 @@
                 "id": 115744122,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-08-20T14:19:29Z",
+                "last_commit": "2026-08-29T12:23:09Z",
                 "open_issues": 128,
                 "owner": "google-deepmind",
                 "repo": "dm_control",
@@ -1774,7 +1774,7 @@
                 "id": 115744122,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-08-20T14:19:29Z",
+                "last_commit": "2026-08-29T12:23:09Z",
                 "open_issues": 128,
                 "owner": "google-deepmind",
                 "repo": "dm_control",
@@ -1814,7 +1814,7 @@
                 "open_issues": 128,
                 "owner": "openai",
                 "repo": "gym",
-                "stars": 37245,
+                "stars": 37244,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:54:20.214Z"
@@ -1870,7 +1870,7 @@
                 "open_issues": 128,
                 "owner": "openai",
                 "repo": "gym",
-                "stars": 37245,
+                "stars": 37244,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:54:20.214Z"
@@ -1894,7 +1894,7 @@
                 "id": 115744122,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-08-20T14:19:29Z",
+                "last_commit": "2026-08-29T12:23:09Z",
                 "open_issues": 128,
                 "owner": "google-deepmind",
                 "repo": "dm_control",
@@ -1934,7 +1934,7 @@
                 "open_issues": 128,
                 "owner": "openai",
                 "repo": "gym",
-                "stars": 37245,
+                "stars": 37244,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:54:20.214Z"
@@ -1996,7 +1996,7 @@
                 "open_issues": 13,
                 "owner": "Farama-Foundation",
                 "repo": "Metaworld",
-                "stars": 1874,
+                "stars": 1875,
                 "topics": [
                   "benchmark-environments",
                   "meta-rl",
@@ -2216,7 +2216,7 @@
                 "id": 115744122,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-08-20T14:19:29Z",
+                "last_commit": "2026-08-29T12:23:09Z",
                 "open_issues": 128,
                 "owner": "google-deepmind",
                 "repo": "dm_control",
@@ -2256,7 +2256,7 @@
                 "open_issues": 107,
                 "owner": "Farama-Foundation",
                 "repo": "D4RL",
-                "stars": 1700,
+                "stars": 1701,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:54:20.214Z"
@@ -2280,7 +2280,7 @@
                 "id": 115744122,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-08-20T14:19:29Z",
+                "last_commit": "2026-08-29T12:23:09Z",
                 "open_issues": 128,
                 "owner": "google-deepmind",
                 "repo": "dm_control",
@@ -2351,7 +2351,7 @@
                 "id": 115744122,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-08-20T14:19:29Z",
+                "last_commit": "2026-08-29T12:23:09Z",
                 "open_issues": 128,
                 "owner": "google-deepmind",
                 "repo": "dm_control",
@@ -2391,7 +2391,7 @@
                 "open_issues": 128,
                 "owner": "openai",
                 "repo": "gym",
-                "stars": 37245,
+                "stars": 37244,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:54:20.214Z"
@@ -2419,7 +2419,7 @@
                 "open_issues": 107,
                 "owner": "Farama-Foundation",
                 "repo": "D4RL",
-                "stars": 1700,
+                "stars": 1701,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:54:20.214Z"
@@ -2453,7 +2453,7 @@
                 "open_issues": 128,
                 "owner": "openai",
                 "repo": "gym",
-                "stars": 37245,
+                "stars": 37244,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:54:20.214Z"
@@ -2481,7 +2481,7 @@
                 "open_issues": 107,
                 "owner": "Farama-Foundation",
                 "repo": "D4RL",
-                "stars": 1700,
+                "stars": 1701,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:54:20.214Z"
@@ -2537,7 +2537,7 @@
                 "open_issues": 107,
                 "owner": "Farama-Foundation",
                 "repo": "D4RL",
-                "stars": 1700,
+                "stars": 1701,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:54:20.214Z"
@@ -2565,7 +2565,7 @@
                 "open_issues": 358,
                 "owner": "google-deepmind",
                 "repo": "deepmind-research",
-                "stars": 15173,
+                "stars": 15175,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:54:20.214Z"
@@ -2593,7 +2593,7 @@
                 "open_issues": 107,
                 "owner": "Farama-Foundation",
                 "repo": "D4RL",
-                "stars": 1700,
+                "stars": 1701,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:54:20.214Z"
@@ -2739,7 +2739,7 @@
                 "id": 115744122,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-08-20T14:19:29Z",
+                "last_commit": "2026-08-29T12:23:09Z",
                 "open_issues": 128,
                 "owner": "google-deepmind",
                 "repo": "dm_control",
@@ -2835,7 +2835,7 @@
                 "open_issues": 128,
                 "owner": "openai",
                 "repo": "gym",
-                "stars": 37245,
+                "stars": 37244,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:54:20.214Z"
@@ -2863,7 +2863,7 @@
                 "open_issues": 128,
                 "owner": "openai",
                 "repo": "gym",
-                "stars": 37245,
+                "stars": 37244,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:54:20.214Z"
@@ -2891,7 +2891,7 @@
                 "open_issues": 128,
                 "owner": "openai",
                 "repo": "gym",
-                "stars": 37245,
+                "stars": 37244,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:54:20.214Z"
@@ -2919,7 +2919,7 @@
                 "open_issues": 128,
                 "owner": "openai",
                 "repo": "gym",
-                "stars": 37245,
+                "stars": 37244,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:54:20.214Z"
@@ -2971,7 +2971,7 @@
                 "id": 115744122,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-08-20T14:19:29Z",
+                "last_commit": "2026-08-29T12:23:09Z",
                 "open_issues": 128,
                 "owner": "google-deepmind",
                 "repo": "dm_control",
@@ -3045,7 +3045,7 @@
                 "open_issues": 107,
                 "owner": "Farama-Foundation",
                 "repo": "D4RL",
-                "stars": 1700,
+                "stars": 1701,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:54:20.214Z"
@@ -3073,7 +3073,7 @@
                 "open_issues": 107,
                 "owner": "Farama-Foundation",
                 "repo": "D4RL",
-                "stars": 1700,
+                "stars": 1701,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:54:20.214Z"
@@ -3101,7 +3101,7 @@
                 "open_issues": 107,
                 "owner": "Farama-Foundation",
                 "repo": "D4RL",
-                "stars": 1700,
+                "stars": 1701,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:54:20.214Z"
@@ -3129,7 +3129,7 @@
                 "open_issues": 63,
                 "owner": "openai",
                 "repo": "multiagent-particle-envs",
-                "stars": 2774,
+                "stars": 2775,
                 "topics": [
                   "paper"
                 ]
@@ -3390,7 +3390,7 @@
                 "open_issues": 117,
                 "owner": "dennybritz",
                 "repo": "reinforcement-learning",
-                "stars": 22116,
+                "stars": 22118,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:54:20.214Z"
@@ -3418,7 +3418,7 @@
                 "open_issues": 107,
                 "owner": "Farama-Foundation",
                 "repo": "D4RL",
-                "stars": 1700,
+                "stars": 1701,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:54:20.214Z"
@@ -3474,7 +3474,7 @@
                 "open_issues": 128,
                 "owner": "openai",
                 "repo": "gym",
-                "stars": 37245,
+                "stars": 37244,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:54:20.214Z"
@@ -3498,7 +3498,7 @@
                 "id": 115744122,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-08-20T14:19:29Z",
+                "last_commit": "2026-08-29T12:23:09Z",
                 "open_issues": 128,
                 "owner": "google-deepmind",
                 "repo": "dm_control",
@@ -3540,7 +3540,7 @@
                 "id": 115744122,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-08-20T14:19:29Z",
+                "last_commit": "2026-08-29T12:23:09Z",
                 "open_issues": 128,
                 "owner": "google-deepmind",
                 "repo": "dm_control",
@@ -3576,7 +3576,7 @@
                 "id": 115744122,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-08-20T14:19:29Z",
+                "last_commit": "2026-08-29T12:23:09Z",
                 "open_issues": 128,
                 "owner": "google-deepmind",
                 "repo": "dm_control",
@@ -3616,7 +3616,7 @@
                 "open_issues": 128,
                 "owner": "openai",
                 "repo": "gym",
-                "stars": 37245,
+                "stars": 37244,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:54:20.214Z"
@@ -3705,7 +3705,7 @@
                 "open_issues": 107,
                 "owner": "Farama-Foundation",
                 "repo": "D4RL",
-                "stars": 1700,
+                "stars": 1701,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:54:20.214Z"
@@ -3757,7 +3757,7 @@
                 "id": 115744122,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-08-20T14:19:29Z",
+                "last_commit": "2026-08-29T12:23:09Z",
                 "open_issues": 128,
                 "owner": "google-deepmind",
                 "repo": "dm_control",
@@ -3803,7 +3803,7 @@
                 "open_issues": 107,
                 "owner": "Farama-Foundation",
                 "repo": "D4RL",
-                "stars": 1700,
+                "stars": 1701,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:54:20.214Z"
@@ -3859,7 +3859,7 @@
                 "open_issues": 128,
                 "owner": "openai",
                 "repo": "gym",
-                "stars": 37245,
+                "stars": 37244,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:54:20.214Z"
@@ -3887,7 +3887,7 @@
                 "open_issues": 107,
                 "owner": "Farama-Foundation",
                 "repo": "D4RL",
-                "stars": 1700,
+                "stars": 1701,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:54:20.214Z"
@@ -3943,7 +3943,7 @@
                 "open_issues": 128,
                 "owner": "openai",
                 "repo": "gym",
-                "stars": 37245,
+                "stars": 37244,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:54:20.214Z"
@@ -3967,7 +3967,7 @@
                 "id": 115744122,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-08-20T14:19:29Z",
+                "last_commit": "2026-08-29T12:23:09Z",
                 "open_issues": 128,
                 "owner": "google-deepmind",
                 "repo": "dm_control",
@@ -4007,7 +4007,7 @@
                 "open_issues": 128,
                 "owner": "openai",
                 "repo": "gym",
-                "stars": 37245,
+                "stars": 37244,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:54:20.214Z"
@@ -4031,7 +4031,7 @@
                 "id": 115744122,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-08-20T14:19:29Z",
+                "last_commit": "2026-08-29T12:23:09Z",
                 "open_issues": 128,
                 "owner": "google-deepmind",
                 "repo": "dm_control",
@@ -4159,7 +4159,7 @@
                 "open_issues": 107,
                 "owner": "Farama-Foundation",
                 "repo": "D4RL",
-                "stars": 1700,
+                "stars": 1701,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:54:20.214Z"
@@ -4249,7 +4249,7 @@
                 "open_issues": 107,
                 "owner": "Farama-Foundation",
                 "repo": "D4RL",
-                "stars": 1700,
+                "stars": 1701,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:54:20.214Z"
@@ -4301,7 +4301,7 @@
                 "id": 115744122,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-08-20T14:19:29Z",
+                "last_commit": "2026-08-29T12:23:09Z",
                 "open_issues": 128,
                 "owner": "google-deepmind",
                 "repo": "dm_control",
@@ -4341,7 +4341,7 @@
                 "open_issues": 128,
                 "owner": "openai",
                 "repo": "gym",
-                "stars": 37245,
+                "stars": 37244,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:54:20.214Z"
@@ -4397,7 +4397,7 @@
                 "open_issues": 23,
                 "owner": "Farama-Foundation",
                 "repo": "Minigrid",
-                "stars": 2501,
+                "stars": 2502,
                 "topics": [
                   "gridworld-environment",
                   "gymnasium",
@@ -4429,7 +4429,7 @@
                 "open_issues": 128,
                 "owner": "openai",
                 "repo": "gym",
-                "stars": 37245,
+                "stars": 37244,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:54:20.214Z"
@@ -4457,7 +4457,7 @@
                 "open_issues": 358,
                 "owner": "google-deepmind",
                 "repo": "deepmind-research",
-                "stars": 15173,
+                "stars": 15175,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:54:20.214Z"
@@ -4485,7 +4485,7 @@
                 "open_issues": 128,
                 "owner": "openai",
                 "repo": "gym",
-                "stars": 37245,
+                "stars": 37244,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:54:20.214Z"
@@ -4513,7 +4513,7 @@
                 "open_issues": 23,
                 "owner": "Farama-Foundation",
                 "repo": "Minigrid",
-                "stars": 2501,
+                "stars": 2502,
                 "topics": [
                   "gridworld-environment",
                   "gymnasium",
@@ -4545,7 +4545,7 @@
                 "open_issues": 107,
                 "owner": "Farama-Foundation",
                 "repo": "D4RL",
-                "stars": 1700,
+                "stars": 1701,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:54:20.214Z"
@@ -4601,7 +4601,7 @@
                 "open_issues": 107,
                 "owner": "Farama-Foundation",
                 "repo": "D4RL",
-                "stars": 1700,
+                "stars": 1701,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:54:20.214Z"
@@ -4629,7 +4629,7 @@
                 "open_issues": 107,
                 "owner": "Farama-Foundation",
                 "repo": "D4RL",
-                "stars": 1700,
+                "stars": 1701,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:54:20.214Z"
@@ -4657,7 +4657,7 @@
                 "open_issues": 107,
                 "owner": "Farama-Foundation",
                 "repo": "D4RL",
-                "stars": 1700,
+                "stars": 1701,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:54:20.214Z"
@@ -4719,7 +4719,7 @@
                 "open_issues": 107,
                 "owner": "Farama-Foundation",
                 "repo": "D4RL",
-                "stars": 1700,
+                "stars": 1701,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:54:20.214Z"
@@ -4747,7 +4747,7 @@
                 "open_issues": 128,
                 "owner": "openai",
                 "repo": "gym",
-                "stars": 37245,
+                "stars": 37244,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:54:20.214Z"
@@ -4775,7 +4775,7 @@
                 "open_issues": 13,
                 "owner": "Farama-Foundation",
                 "repo": "Metaworld",
-                "stars": 1874,
+                "stars": 1875,
                 "topics": [
                   "benchmark-environments",
                   "meta-rl",
@@ -4808,7 +4808,7 @@
                 "open_issues": 358,
                 "owner": "google-deepmind",
                 "repo": "deepmind-research",
-                "stars": 15173,
+                "stars": 15175,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:54:20.214Z"
@@ -4864,7 +4864,7 @@
                 "open_issues": 128,
                 "owner": "openai",
                 "repo": "gym",
-                "stars": 37245,
+                "stars": 37244,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:54:20.214Z"
@@ -4892,7 +4892,7 @@
                 "open_issues": 107,
                 "owner": "Farama-Foundation",
                 "repo": "D4RL",
-                "stars": 1700,
+                "stars": 1701,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:54:20.214Z"
@@ -4920,7 +4920,7 @@
                 "open_issues": 128,
                 "owner": "openai",
                 "repo": "gym",
-                "stars": 37245,
+                "stars": 37244,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:54:20.214Z"
@@ -4982,7 +4982,7 @@
                 "open_issues": 128,
                 "owner": "openai",
                 "repo": "gym",
-                "stars": 37245,
+                "stars": 37244,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:54:20.214Z"
@@ -5010,7 +5010,7 @@
                 "open_issues": 13,
                 "owner": "Farama-Foundation",
                 "repo": "Metaworld",
-                "stars": 1874,
+                "stars": 1875,
                 "topics": [
                   "benchmark-environments",
                   "meta-rl",
@@ -5071,7 +5071,7 @@
                 "open_issues": 128,
                 "owner": "openai",
                 "repo": "gym",
-                "stars": 37245,
+                "stars": 37244,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:54:20.214Z"
@@ -5099,7 +5099,7 @@
                 "open_issues": 66,
                 "owner": "google-deepmind",
                 "repo": "lab",
-                "stars": 7373,
+                "stars": 7372,
                 "topics": [
                   "artificial-intelligence",
                   "deep-learning",
@@ -5132,7 +5132,7 @@
                 "open_issues": 128,
                 "owner": "openai",
                 "repo": "gym",
-                "stars": 37245,
+                "stars": 37244,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:54:20.214Z"
@@ -5156,7 +5156,7 @@
                 "id": 115744122,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-08-20T14:19:29Z",
+                "last_commit": "2026-08-29T12:23:09Z",
                 "open_issues": 128,
                 "owner": "google-deepmind",
                 "repo": "dm_control",
@@ -5196,7 +5196,7 @@
                 "open_issues": 128,
                 "owner": "openai",
                 "repo": "gym",
-                "stars": 37245,
+                "stars": 37244,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:54:20.214Z"
@@ -5280,7 +5280,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T11:19:56.486Z",
+    "last_updated": "2026-08-30T10:05:18.476Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome model based RL resources (continually updated)",
