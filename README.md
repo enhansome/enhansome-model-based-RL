@@ -1,6 +1,6 @@
 # Awesome Model-Based Reinforcement Learning with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 502,162 | 🐛 105 | 📅 2026-09-02 [![docs](https://img.shields.io/badge/docs-latest-blue)](https://github.com/opendilab/awesome-model-based-RL) ⭐ 1,393 | 🐛 0 | 📅 2026-05-21 ![GitHub stars](https://img.shields.io/github/stars/opendilab/awesome-model-based-RL?color=yellow) ![GitHub forks](https://img.shields.io/github/forks/opendilab/awesome-model-based-RL?color=9cf) [![GitHub license](https://img.shields.io/github/license/opendilab/awesome-model-based-RL)](https://github.com/opendilab/awesome-model-based-RL/blob/main/LICENSE) ⭐ 1,393 | 🐛 0 | 📅 2026-05-21
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 502,524 | 🐛 105 | 📅 2026-09-02 [![docs](https://img.shields.io/badge/docs-latest-blue)](https://github.com/opendilab/awesome-model-based-RL) ⭐ 1,393 | 🐛 0 | 📅 2026-05-21 ![GitHub stars](https://img.shields.io/github/stars/opendilab/awesome-model-based-RL?color=yellow) ![GitHub forks](https://img.shields.io/github/forks/opendilab/awesome-model-based-RL?color=9cf) [![GitHub license](https://img.shields.io/github/license/opendilab/awesome-model-based-RL)](https://github.com/opendilab/awesome-model-based-RL/blob/main/LICENSE) ⭐ 1,393 | 🐛 0 | 📅 2026-05-21
 
 This is a collection of research papers for **model-based reinforcement learning (mbrl)**.
 And the repository will be continuously updated to track the frontier of model-based rl.
@@ -143,7 +143,7 @@ format:
   * Key: ensemble model and Qnet, value expansion
 
 * [Recurrent World Models Facilitate Policy Evolution](https://arxiv.org/abs/1809.01999)
-  * ExpEnv: [car racing](https://github.com/openai/gym) ⚠️ Archived, [vizdoom](https://github.com/mwydmuch/ViZDoom) ⭐ 2,065 | 🐛 39 | 🌐 C++ | 📅 2026-08-30
+  * ExpEnv: [car racing](https://github.com/openai/gym) ⚠️ Archived, [vizdoom](https://github.com/mwydmuch/ViZDoom) ⭐ 2,065 | 🐛 37 | 🌐 C++ | 📅 2026-09-02
   * David Ha, Jürgen Schmidhuber. *NIPS 2018*
   * Key: vae(representation), rnn(predictive model)
 
@@ -760,7 +760,7 @@ format:
   * ExpEnv: D4RL
 
 * [WorldCoder, a Model-Based LLM Agent: Building World Models by Writing Code and Interacting with the Environment](https://arxiv.org/abs/2402.12275)
-  * ExpEnv: [sokoban](https://github.com/mpSchrader/gym-sokoban) ⭐ 410 | 🐛 15 | 🌐 Python | 📅 2023-11-08, [minigrid](https://github.com/Farama-Foundation/Minigrid) ⭐ 2,502 | 🐛 22 | 🌐 Python | 📅 2026-08-24, [alfworld](https://github.com/alfworld/alfworld) ⭐ 847 | 🐛 14 | 🌐 Python | 📅 2026-02-08
+  * ExpEnv: [sokoban](https://github.com/mpSchrader/gym-sokoban) ⭐ 410 | 🐛 15 | 🌐 Python | 📅 2023-11-08, [minigrid](https://github.com/Farama-Foundation/Minigrid) ⭐ 2,503 | 🐛 22 | 🌐 Python | 📅 2026-08-24, [alfworld](https://github.com/alfworld/alfworld) ⭐ 847 | 🐛 14 | 🌐 Python | 📅 2026-02-08
   * Hao Tang, Darren Key, Kevin Ellis
   * Key: learn world models as code, LLM
 
@@ -775,7 +775,7 @@ format:
   * Key: The paper argues that uncertainty-based reward penalization introduces excessive conservatism, potentially resulting in suboptimal policies through underestimation.
 
 * [BECAUSE: Bilinear Causal Representation for Generalizable Offline Model-based Reinforcement Learning](https://arxiv.org/abs/2407.10967)
-  * ExpEnv: [list](https://github.com/ARISE-Initiative/robosuite) ⭐ 2,585 | 🐛 111 | 🌐 Python | 📅 2026-07-11, [unlock](https://github.com/Farama-Foundation/Minigrid) ⭐ 2,502 | 🐛 22 | 🌐 Python | 📅 2026-08-24, [crash](https://github.com/Farama-Foundation/HighwayEnv) ⭐ 3,302 | 🐛 38 | 🌐 Python | 📅 2026-09-01
+  * ExpEnv: [list](https://github.com/ARISE-Initiative/robosuite) ⭐ 2,588 | 🐛 111 | 🌐 Python | 📅 2026-07-11, [unlock](https://github.com/Farama-Foundation/Minigrid) ⭐ 2,503 | 🐛 22 | 🌐 Python | 📅 2026-08-24, [crash](https://github.com/Farama-Foundation/HighwayEnv) ⭐ 3,302 | 🐛 39 | 🌐 Python | 📅 2026-09-02
   * Haohong Lin, Wenhao Ding, Jian Chen, Laixi Shi, Jiacheng Zhu, Bo Li, DING ZHAO
   * Key: objective mismatch problem, capture causal representation for both states and actions
 
@@ -817,7 +817,7 @@ format:
   * Key: observation modeling and reward modeling analysis in world models
 
 * [3D-VLA: A 3D Vision-Language-Action Generative World Model](https://arxiv.org/abs/2403.09631)
-  * ExpEnv: [rlbench](https://github.com/stepjam/RLBench) ⭐ 1,812 | 🐛 93 | 🌐 Python | 📅 2025-01-25, [calvin](https://github.com/mees/calvin) ⭐ 981 | 🐛 52 | 🌐 Python | 📅 2025-09-08
+  * ExpEnv: [rlbench](https://github.com/stepjam/RLBench) ⭐ 1,812 | 🐛 93 | 🌐 Python | 📅 2025-01-25, [calvin](https://github.com/mees/calvin) ⭐ 982 | 🐛 52 | 🌐 Python | 📅 2025-09-08
   * Haoyu Zhen, Xiaowen Qiu, Peihao Chen, Jincheng Yang, Xin Yan, Yilun Du, Yining Hong, Chuang Gan
   * Key: unify 3D perception, reasoning, and action with a generative world model; create a large-scale 3D embodied instruction tuning dataset
 
@@ -906,7 +906,7 @@ format:
   * OpenReview: 8, 6, 5, 3
 
 * [Combining Spatial and Temporal Abstraction in Planning for Better Generalization](https://openreview.net/forum?id=eo9dHwtTFt)
-  * ExpEnv: [MiniGrid-BabyAI framework](https://github.com/maximecb/gym-minigrid) ⭐ 2,502 | 🐛 22 | 🌐 Python | 📅 2026-08-24
+  * ExpEnv: [MiniGrid-BabyAI framework](https://github.com/maximecb/gym-minigrid) ⭐ 2,503 | 🐛 22 | 🌐 Python | 📅 2026-08-24
   * Mingde Zhao, Safa Alver, Harm van Seijen, Romain Laroche, Doina Precup, Yoshua Bengio
   * Key: Reinforcement Learning, Planning, Neural Networks, Temporal Difference Learning, Generalization, Deep Reinforcement Learning
   * OpenReview: 6, 6, 6, 5
@@ -960,7 +960,7 @@ format:
   * OpenReview: 8, 6, 6, 6
 
 * [Differentiable Trajectory Optimization as a Policy Class for Reinforcement and Imitation Learning](https://openreview.net/forum?id=HL5P4H8eO2)
-  * ExpEnv: [deepmind control suite](https://github.com/deepmind/dm_control) ⭐ 4,681 | 🐛 128 | 🌐 Python | 📅 2026-08-29, [robomimic](https://github.com/ARISE-Initiative/robomimic) ⭐ 1,541 | 🐛 16 | 🌐 Python | 📅 2026-08-09, [maniskill](https://github.com/haosulab/ManiSkill2) ⭐ 19 | 🐛 0 | 🌐 HTML | 📅 2025-05-28
+  * ExpEnv: [deepmind control suite](https://github.com/deepmind/dm_control) ⭐ 4,681 | 🐛 128 | 🌐 Python | 📅 2026-08-29, [robomimic](https://github.com/ARISE-Initiative/robomimic) ⭐ 1,543 | 🐛 16 | 🌐 Python | 📅 2026-08-09, [maniskill](https://github.com/haosulab/ManiSkill2) ⭐ 19 | 🐛 0 | 🌐 HTML | 📅 2025-05-28
   * Weikang Wan, Yufei Wang, Zackory Erickson, David Held
   * Key: differentiable trajectory optimization
   * OpenReview: 10, 8, 8, 5
@@ -1013,7 +1013,7 @@ format:
   * Key: interactive planning approach based on LLM
 
 * [Facing Off World Model Backbones: RNNs, Transformers, and S4](https://proceedings.neurips.cc/paper_files/paper/2023/file/e6c65eb9b56719c1aa45ff73874de317-Paper-Conference.pdf)
-  * ExpEnv: [MiniGrid](https://github.com/maximecb/gym-minigrid) ⭐ 2,502 | 🐛 22 | 🌐 Python | 📅 2026-08-24, [memory maze](https://github.com/jurgisp/memory-maze) ⭐ 183 | 🐛 12 | 🌐 Python | 📅 2023-06-23
+  * ExpEnv: [MiniGrid](https://github.com/maximecb/gym-minigrid) ⭐ 2,503 | 🐛 22 | 🌐 Python | 📅 2026-08-24, [memory maze](https://github.com/jurgisp/memory-maze) ⭐ 183 | 🐛 12 | 🌐 Python | 📅 2023-06-23
   * Fei Deng, Junyeong Park, Sungjin Ahn
   * Key: world model backbones
 
@@ -1038,7 +1038,7 @@ format:
   * Key: GPT-based diffusion model for planning and data synthesizing
 
 * [MoVie: Visual Model-Based Policy Adaptation for View Generalization](https://openreview.net/forum?id=YV1MYtj2AR)
-  * ExpEnv: [deepmind control suite](https://github.com/deepmind/dm_control) ⭐ 4,681 | 🐛 128 | 🌐 Python | 📅 2026-08-29, [adroit](https://github.com/aravindr93/mjrl) ⭐ 465 | 🐛 22 | 🌐 Python | 📅 2026-07-20, [xArm](https://github.com/yangsizhe/MoVie/tree/main/src/envs/xarm_env) ⭐ 12 | 🐛 0 | 🌐 Python | 📅 2023-09-22
+  * ExpEnv: [deepmind control suite](https://github.com/deepmind/dm_control) ⭐ 4,681 | 🐛 128 | 🌐 Python | 📅 2026-08-29, [adroit](https://github.com/aravindr93/mjrl) ⭐ 466 | 🐛 22 | 🌐 Python | 📅 2026-07-20, [xArm](https://github.com/yangsizhe/MoVie/tree/main/src/envs/xarm_env) ⭐ 12 | 🐛 0 | 🌐 Python | 📅 2023-09-22
   * Sizhe Yang, Yanjie Ze, Huazhe Xu
   * Key: view generalization, spatial adaptive encoder
 
@@ -1206,7 +1206,7 @@ format:
   * OpenReview: 8, 8, 6, 6
 
 * [Efficient Offline Policy Optimization with a Learned Model](https://openreview.net/forum?id=Yt-yM-JbYFO)
-  * ExpEnv: [atari dataset](https://github.com/deepmind/deepmind-research/tree/master/rl_unplugged) ⭐ 15,180 | 🐛 358 | 🌐 Jupyter Notebook | 📅 2026-06-17
+  * ExpEnv: [atari dataset](https://github.com/deepmind/deepmind-research/tree/master/rl_unplugged) ⭐ 15,181 | 🐛 358 | 🌐 Jupyter Notebook | 📅 2026-06-17
   * Zichen Liu, Siyi Li, Wee Sun Lee, Shuicheng YAN, Zhongwen Xu
   * Key: offline rl, analysis of MuZero Unplugged, one-step look-ahead policy improvement
   * OpenReview: 8, 6, 5
@@ -1224,7 +1224,7 @@ format:
   * OpenReview: 8, 8, 6, 6
 
 * [MoDem: Accelerating Visual Model-Based Reinforcement Learning with Demonstrations](https://openreview.net/forum?id=JdTnc9gjVfJ)
-  * ExpEnv: [adroit](https://github.com/aravindr93/mjrl) ⭐ 465 | 🐛 22 | 🌐 Python | 📅 2026-07-20, [meta-world](https://github.com/rlworkgroup/metaworld) ⭐ 1,878 | 🐛 13 | 🌐 Python | 📅 2026-08-10, [deepmind control suite](https://github.com/deepmind/dm_control) ⭐ 4,681 | 🐛 128 | 🌐 Python | 📅 2026-08-29
+  * ExpEnv: [adroit](https://github.com/aravindr93/mjrl) ⭐ 466 | 🐛 22 | 🌐 Python | 📅 2026-07-20, [meta-world](https://github.com/rlworkgroup/metaworld) ⭐ 1,878 | 🐛 13 | 🌐 Python | 📅 2026-08-10, [deepmind control suite](https://github.com/deepmind/dm_control) ⭐ 4,681 | 🐛 128 | 🌐 Python | 📅 2026-08-29
   * Nicklas Hansen, Yixin Lin, Hao Su, Xiaolong Wang, Vikash Kumar, Aravind Rajeswaran
   * Key: three phases -- policy pretraining, targeted exploration, interactive learning
   * OpenReview: 8, 6, 6, 6
@@ -1242,7 +1242,7 @@ format:
   - ExpEnv: [ProcMaze, ButtonGrid, PanFlute]() -->
 
 * [Diminishing Return of Value Expansion Methods in Model-Based Reinforcement Learning](https://openreview.net/forum?id=H4Ncs5jhTCu)
-  * ExpEnv: [brax](https://github.com/google/brax) ⭐ 3,227 | 🐛 109 | 🌐 Jupyter Notebook | 📅 2026-08-06
+  * ExpEnv: [brax](https://github.com/google/brax) ⭐ 3,228 | 🐛 109 | 🌐 Jupyter Notebook | 📅 2026-08-06
   * Daniel Palenicek, Michael Lutter, Joao Carvalho, Jan Peters
   * Key: longer horizons yield diminishing returns in terms of sample efficiency
   * OpenReview: 8, 6, 6, 6
@@ -1393,7 +1393,7 @@ format:
   * OpenReview: 7, 7, 6, 6
 
 * [Joint Model-Policy Optimization of a Lower Bound for Model-Based RL](https://openreview.net/forum?id=LYfFj-Vk6lt)
-  * ExpEnv: [gridworld](https://github.com/dennybritz/reinforcement-learning/blob/master/lib/envs/gridworld.py) ⭐ 22,122 | 🐛 117 | 🌐 Jupyter Notebook | 📅 2023-07-13, [mujoco](https://github.com/openai/mujoco-py) ⚠️ Archived, [ROBEL manipulation](https://github.com/google-research/robel) ⚠️ Archived
+  * ExpEnv: [gridworld](https://github.com/dennybritz/reinforcement-learning/blob/master/lib/envs/gridworld.py) ⭐ 22,123 | 🐛 117 | 🌐 Jupyter Notebook | 📅 2023-07-13, [mujoco](https://github.com/openai/mujoco-py) ⚠️ Archived, [ROBEL manipulation](https://github.com/google-research/robel) ⚠️ Archived
   * Benjamin Eysenbach, Alexander Khazatsky, Sergey Levine, Russ Salakhutdinov
   * Key: unified objective for model-based RL
   * OpenReview: 8, 8, 7, 6
@@ -1543,7 +1543,7 @@ format:
   * OpenReview: 8, 8, 8, 6
 
 * [Transfer RL across Observation Feature Spaces via Model-Based Regularization](https://openreview.net/forum?id=7KdAoOsI81C)
-  * ExpEnv: [CartPole, Acrobot and Cheetah-Run](https://github.com/openai/gym) ⚠️ Archived, [mujoco](https://github.com/openai/mujoco-py) ⚠️ Archived, [3DBall](https://github.com/Unity-Technologies/ml-agents) ⭐ 19,653 | 🐛 21 | 🌐 C# | 📅 2026-08-25
+  * ExpEnv: [CartPole, Acrobot and Cheetah-Run](https://github.com/openai/gym) ⚠️ Archived, [mujoco](https://github.com/openai/mujoco-py) ⚠️ Archived, [3DBall](https://github.com/Unity-Technologies/ml-agents) ⭐ 19,656 | 🐛 21 | 🌐 C# | 📅 2026-09-02
   * Yanchao Sun, Ruijie Zheng, Xiyao Wang, Andrew E Cohen, Furong Huang
   * Key: latent dynamics model, transfer RL
   * OpenReview: 8, 6, 5, 5
@@ -1634,7 +1634,7 @@ format:
   * OpenReview: 7, 7, 6, 6
 
 * [A Consciousness-Inspired Planning Agent for Model-Based Reinforcement Learning](https://arxiv.org/abs/2106.02097)
-  * ExpEnv: [MiniGrid-BabyAI framework](https://github.com/maximecb/gym-minigrid) ⭐ 2,502 | 🐛 22 | 🌐 Python | 📅 2026-08-24
+  * ExpEnv: [MiniGrid-BabyAI framework](https://github.com/maximecb/gym-minigrid) ⭐ 2,503 | 🐛 22 | 🌐 Python | 📅 2026-08-24
   * Mingde Zhao, Zhen Liu, Sitao Luan, Shuyuan Zhang, Doina Precup, Yoshua Bengio
   * Key: mbrl, set representation
   * OpenReview: 7, 7, 7, 6
@@ -1646,7 +1646,7 @@ format:
   * OpenReview: 7, 7, 7, 5
 
 * [Online and Offline Reinforcement Learning by Planning with a Learned Model](https://openreview.net/forum?id=HKtsGW-lNbw)
-  * ExpEnv: [atrai dataset, deepmind control suite dataset](https://github.com/deepmind/deepmind-research/tree/master/rl_unplugged) ⭐ 15,180 | 🐛 358 | 🌐 Jupyter Notebook | 📅 2026-06-17
+  * ExpEnv: [atrai dataset, deepmind control suite dataset](https://github.com/deepmind/deepmind-research/tree/master/rl_unplugged) ⭐ 15,181 | 🐛 358 | 🌐 Jupyter Notebook | 📅 2026-06-17
   * Julian Schrittwieser, Thomas K Hubert, Amol Mandhane, Mohammadamin Barekatain, Ioannis Antonoglou, David Silver
   * Key: muzero, reanalyse, offline
   * OpenReview: 8, 8, 7, 6
@@ -1658,7 +1658,7 @@ format:
   * OpenReview: 7, 7, 7, 6
 
 * [Proper Value Equivalence](https://arxiv.org/abs/2106.10316)
-  * ExpEnv: [four rooms](https://github.com/maximecb/gym-minigrid) ⭐ 2,502 | 🐛 22 | 🌐 Python | 📅 2026-08-24, [atari](https://github.com/openai/gym) ⚠️ Archived
+  * ExpEnv: [four rooms](https://github.com/maximecb/gym-minigrid) ⭐ 2,503 | 🐛 22 | 🌐 Python | 📅 2026-08-24, [atari](https://github.com/openai/gym) ⚠️ Archived
   * Christopher Grimm, Andre Barreto, Gregory Farquhar, David Silver, Satinder Singh
   * Key: value equivalence, value-based planning, muzero
   * OpenReview: 8, 7, 7, 6
@@ -1743,7 +1743,7 @@ format:
   * OpenReview: 7, 7, 7, 7
 
 * [Model-Based Offline Planning](https://arxiv.org/abs/2008.05556)
-  * ExpEnv: [RL Unplugged(RLU)](https://github.com/deepmind/deepmind-research/tree/master/rl_unplugged) ⭐ 15,180 | 🐛 358 | 🌐 Jupyter Notebook | 📅 2026-06-17, [d4rl dataset](https://github.com/rail-berkeley/d4rl) ⭐ 1,702 | 🐛 107 | 🌐 Python | 📅 2024-11-18
+  * ExpEnv: [RL Unplugged(RLU)](https://github.com/deepmind/deepmind-research/tree/master/rl_unplugged) ⭐ 15,181 | 🐛 358 | 🌐 Jupyter Notebook | 📅 2026-06-17, [d4rl dataset](https://github.com/rail-berkeley/d4rl) ⭐ 1,702 | 🐛 107 | 🌐 Python | 📅 2024-11-18
   * Arthur Argenson, Gabriel Dulac-Arnold
   * Key: model-based, offline
   * OpenReview: 8, 7, 5, 5
@@ -1854,7 +1854,7 @@ format:
   * Key: offline RL, learning for control, sequence modeling
 
 * [World Models via Policy-Guided Trajectory Diffusion](https://arxiv.org/abs/2312.08533)
-  * ExpEnv: [deepmind control suite](https://github.com/deepmind/dm_control) ⭐ 4,681 | 🐛 128 | 🌐 Python | 📅 2026-08-29, [gridworld](https://github.com/dennybritz/reinforcement-learning/blob/master/lib/envs/gridworld.py) ⭐ 22,122 | 🐛 117 | 🌐 Jupyter Notebook | 📅 2023-07-13
+  * ExpEnv: [deepmind control suite](https://github.com/deepmind/dm_control) ⭐ 4,681 | 🐛 128 | 🌐 Python | 📅 2026-08-29, [gridworld](https://github.com/dennybritz/reinforcement-learning/blob/master/lib/envs/gridworld.py) ⭐ 22,123 | 🐛 117 | 🌐 Jupyter Notebook | 📅 2023-07-13
   * Marc Rigter, Jun Yamada, Ingmar Posner *Arxiv 2023*
   * Key: Diffusion model, world model
 
@@ -1900,4 +1900,4 @@ Awesome Model-Based RL is released under the Apache 2.0 license.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-02._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-03._
