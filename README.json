@@ -710,7 +710,7 @@
                 "open_issues": 112,
                 "owner": "ARISE-Initiative",
                 "repo": "robosuite",
-                "stars": 2627,
+                "stars": 2632,
                 "topics": [
                   "physics-simulation",
                   "reinforcement-learning",
@@ -2565,7 +2565,7 @@
                 "open_issues": 359,
                 "owner": "google-deepmind",
                 "repo": "deepmind-research",
-                "stars": 15204,
+                "stars": 15206,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:54:20.214Z"
@@ -2707,10 +2707,10 @@
                 "language": "Jupyter Notebook",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-15T09:02:32Z",
-                "open_issues": 110,
+                "open_issues": 113,
                 "owner": "google",
                 "repo": "brax",
-                "stars": 3240,
+                "stars": 3241,
                 "topics": [
                   "jax",
                   "physics-simulation",
@@ -3159,7 +3159,7 @@
                 "open_issues": 64,
                 "owner": "google-deepmind",
                 "repo": "pysc2",
-                "stars": 8314,
+                "stars": 8315,
                 "topics": [
                   "blizzard-api",
                   "deepmind",
@@ -3672,7 +3672,7 @@
                 "open_issues": 231,
                 "owner": "huawei-noah",
                 "repo": "SMARTS",
-                "stars": 1135,
+                "stars": 1134,
                 "topics": [
                   "autonomous-driving",
                   "python",
@@ -4457,7 +4457,7 @@
                 "open_issues": 359,
                 "owner": "google-deepmind",
                 "repo": "deepmind-research",
-                "stars": 15204,
+                "stars": 15206,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:54:20.214Z"
@@ -4808,7 +4808,7 @@
                 "open_issues": 359,
                 "owner": "google-deepmind",
                 "repo": "deepmind-research",
-                "stars": 15204,
+                "stars": 15206,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:54:20.214Z"
@@ -5099,7 +5099,7 @@
                 "open_issues": 67,
                 "owner": "google-deepmind",
                 "repo": "lab",
-                "stars": 7381,
+                "stars": 7383,
                 "topics": [
                   "artificial-intelligence",
                   "deep-learning",
@@ -5225,7 +5225,7 @@
             "open_issues": 26,
             "owner": "opendilab",
             "repo": "DI-engine",
-            "stars": 3647,
+            "stars": 3648,
             "topics": [
               "atari",
               "distributed-reinforcement-learning",
@@ -5280,7 +5280,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-24T09:30:04.405Z",
+    "last_updated": "2026-09-25T09:46:21.618Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome model based RL resources (continually updated)",
