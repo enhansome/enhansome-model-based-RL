@@ -3297,7 +3297,7 @@
                         "open_issues": 117,
                         "owner": "dennybritz",
                         "repo": "reinforcement-learning",
-                        "stars": 22140,
+                        "stars": 22141,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T16:54:20.214Z"
@@ -5400,7 +5400,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T04:57:32.194Z",
+    "last_updated": "2026-10-03T10:01:43.926Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome model based RL resources (continually updated)",

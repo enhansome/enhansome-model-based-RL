@@ -1,6 +1,6 @@
 # Awesome Model-Based Reinforcement Learning with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 513,797 | 🐛 106 | 📅 2026-09-02 [![docs](https://img.shields.io/badge/docs-latest-blue)](https://github.com/opendilab/awesome-model-based-RL) ![GitHub stars](https://img.shields.io/github/stars/opendilab/awesome-model-based-RL?color=yellow) ![GitHub forks](https://img.shields.io/github/forks/opendilab/awesome-model-based-RL?color=9cf) [![GitHub license](https://img.shields.io/github/license/opendilab/awesome-model-based-RL)](https://github.com/opendilab/awesome-model-based-RL/blob/main/LICENSE)
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 513,876 | 🐛 106 | 📅 2026-09-02 [![docs](https://img.shields.io/badge/docs-latest-blue)](https://github.com/opendilab/awesome-model-based-RL) ![GitHub stars](https://img.shields.io/github/stars/opendilab/awesome-model-based-RL?color=yellow) ![GitHub forks](https://img.shields.io/github/forks/opendilab/awesome-model-based-RL?color=9cf) [![GitHub license](https://img.shields.io/github/license/opendilab/awesome-model-based-RL)](https://github.com/opendilab/awesome-model-based-RL/blob/main/LICENSE)
 
 This is a collection of research papers for **model-based reinforcement learning (mbrl)**.
 And the repository will be continuously updated to track the frontier of model-based rl.
@@ -143,7 +143,7 @@ format:
   * Key: ensemble model and Qnet, value expansion
 
 * [Recurrent World Models Facilitate Policy Evolution](https://arxiv.org/abs/1809.01999)
-  * ExpEnv: [car racing](https://github.com/openai/gym) ⚠️ Archived, [vizdoom](https://github.com/mwydmuch/ViZDoom) ⭐ 2,094 | 🐛 39 | 🌐 C++ | 📅 2026-09-25
+  * ExpEnv: [car racing](https://github.com/openai/gym) ⚠️ Archived, [vizdoom](https://github.com/mwydmuch/ViZDoom) ⭐ 2,095 | 🐛 39 | 🌐 C++ | 📅 2026-09-25
   * David Ha, Jürgen Schmidhuber. *NIPS 2018*
   * Key: vae(representation), rnn(predictive model)
 
@@ -713,7 +713,7 @@ format:
   * ExpEnv: D4RL, NeoRL, Gym MuJoCo-v3
 
 * [Discrete Codebook World Models for Continuous Control](https://openreview.net/forum?id=lfRYzd8ady)
-  * ExpEnv: [deepmind control suite](https://github.com/deepmind/dm_control) ⭐ 4,707 | 🐛 137 | 🌐 Python | 📅 2026-09-22, [Meta-World](https://github.com/Farama-Foundation/Metaworld) ⭐ 1,889 | 🐛 18 | 🌐 Python | 📅 2026-09-12, [myosuite](https://github.com/MyoHub/myosuite) ⭐ 1,232 | 🐛 49 | 🌐 Python | 📅 2026-10-02
+  * ExpEnv: [deepmind control suite](https://github.com/deepmind/dm_control) ⭐ 4,707 | 🐛 137 | 🌐 Python | 📅 2026-09-22, [Meta-World](https://github.com/Farama-Foundation/Metaworld) ⭐ 1,889 | 🐛 18 | 🌐 Python | 📅 2026-09-12, [myosuite](https://github.com/MyoHub/myosuite) ⭐ 1,232 | 🐛 46 | 🌐 Python | 📅 2026-10-03
   * Aidan Scannell, Mohammadreza Nakhaeinezhadfard, Kalle Kujanpää, Yi Zhao, Kevin Sebastian Luck, Arno Solin, Joni Pajarinen
   * Key: reinforcement learning, world model, representation learning, self-supervised learning, model-based reinforcement learning, continuous control
 
@@ -775,7 +775,7 @@ format:
   * Key: The paper argues that uncertainty-based reward penalization introduces excessive conservatism, potentially resulting in suboptimal policies through underestimation.
 
 * [BECAUSE: Bilinear Causal Representation for Generalizable Offline Model-based Reinforcement Learning](https://arxiv.org/abs/2407.10967)
-  * ExpEnv: [list](https://github.com/ARISE-Initiative/robosuite) ⭐ 2,642 | 🐛 113 | 🌐 Python | 📅 2026-07-11, [unlock](https://github.com/Farama-Foundation/Minigrid) ⭐ 2,516 | 🐛 26 | 🌐 Python | 📅 2026-09-10, [crash](https://github.com/Farama-Foundation/HighwayEnv) ⭐ 3,322 | 🐛 43 | 🌐 Python | 📅 2026-09-29
+  * ExpEnv: [list](https://github.com/ARISE-Initiative/robosuite) ⭐ 2,642 | 🐛 113 | 🌐 Python | 📅 2026-07-11, [unlock](https://github.com/Farama-Foundation/Minigrid) ⭐ 2,516 | 🐛 26 | 🌐 Python | 📅 2026-09-10, [crash](https://github.com/Farama-Foundation/HighwayEnv) ⭐ 3,323 | 🐛 43 | 🌐 Python | 📅 2026-09-29
   * Haohong Lin, Wenhao Ding, Jian Chen, Laixi Shi, Jiacheng Zhu, Bo Li, DING ZHAO
   * Key: objective mismatch problem, capture causal representation for both states and actions
 
@@ -924,7 +924,7 @@ format:
   * OpenReview: 10, 8, 8, 8
 
 * [TD-MPC2: Scalable, Robust World Models for Continuous Control](https://openreview.net/forum?id=Oxh5CstDJU)
-  * ExpEnv: [deepmind control suite](https://github.com/deepmind/dm_control) ⭐ 4,707 | 🐛 137 | 🌐 Python | 📅 2026-09-22, [Meta-World](https://github.com/Farama-Foundation/Metaworld) ⭐ 1,889 | 🐛 18 | 🌐 Python | 📅 2026-09-12, [maniskill2](https://github.com/haosulab/ManiSkill2) ⭐ 19 | 🐛 0 | 🌐 HTML | 📅 2025-05-28, [myosuite](https://github.com/MyoHub/myosuite) ⭐ 1,232 | 🐛 49 | 🌐 Python | 📅 2026-10-02
+  * ExpEnv: [deepmind control suite](https://github.com/deepmind/dm_control) ⭐ 4,707 | 🐛 137 | 🌐 Python | 📅 2026-09-22, [Meta-World](https://github.com/Farama-Foundation/Metaworld) ⭐ 1,889 | 🐛 18 | 🌐 Python | 📅 2026-09-12, [maniskill2](https://github.com/haosulab/ManiSkill2) ⭐ 19 | 🐛 0 | 🌐 HTML | 📅 2025-05-28, [myosuite](https://github.com/MyoHub/myosuite) ⭐ 1,232 | 🐛 46 | 🌐 Python | 📅 2026-10-03
   * Nicklas Hansen, Hao Su, Xiaolong Wang
   * Key: implicit world model, model predictive control, generalist td-mpc2
   * OpenReview: 8, 8, 8, 8
@@ -1393,7 +1393,7 @@ format:
   * OpenReview: 7, 7, 6, 6
 
 * [Joint Model-Policy Optimization of a Lower Bound for Model-Based RL](https://openreview.net/forum?id=LYfFj-Vk6lt)
-  * ExpEnv: [gridworld](https://github.com/dennybritz/reinforcement-learning/blob/master/lib/envs/gridworld.py) ⭐ 22,140 | 🐛 117 | 🌐 Jupyter Notebook | 📅 2023-07-13, [mujoco](https://github.com/openai/mujoco-py) ⚠️ Archived, [ROBEL manipulation](https://github.com/google-research/robel) ⚠️ Archived
+  * ExpEnv: [gridworld](https://github.com/dennybritz/reinforcement-learning/blob/master/lib/envs/gridworld.py) ⭐ 22,141 | 🐛 117 | 🌐 Jupyter Notebook | 📅 2023-07-13, [mujoco](https://github.com/openai/mujoco-py) ⚠️ Archived, [ROBEL manipulation](https://github.com/google-research/robel) ⚠️ Archived
   * Benjamin Eysenbach, Alexander Khazatsky, Sergey Levine, Russ Salakhutdinov
   * Key: unified objective for model-based RL
   * OpenReview: 8, 8, 7, 6
@@ -1854,7 +1854,7 @@ format:
   * Key: offline RL, learning for control, sequence modeling
 
 * [World Models via Policy-Guided Trajectory Diffusion](https://arxiv.org/abs/2312.08533)
-  * ExpEnv: [deepmind control suite](https://github.com/deepmind/dm_control) ⭐ 4,707 | 🐛 137 | 🌐 Python | 📅 2026-09-22, [gridworld](https://github.com/dennybritz/reinforcement-learning/blob/master/lib/envs/gridworld.py) ⭐ 22,140 | 🐛 117 | 🌐 Jupyter Notebook | 📅 2023-07-13
+  * ExpEnv: [deepmind control suite](https://github.com/deepmind/dm_control) ⭐ 4,707 | 🐛 137 | 🌐 Python | 📅 2026-09-22, [gridworld](https://github.com/dennybritz/reinforcement-learning/blob/master/lib/envs/gridworld.py) ⭐ 22,141 | 🐛 117 | 🌐 Jupyter Notebook | 📅 2023-07-13
   * Marc Rigter, Jun Yamada, Ingmar Posner *Arxiv 2023*
   * Key: Diffusion model, world model
 
