@@ -280,7 +280,7 @@
                         "open_issues": 143,
                         "owner": "google-deepmind",
                         "repo": "dm_control",
-                        "stars": 4708,
+                        "stars": 4709,
                         "topics": [
                           "artificial-intelligence",
                           "deep-learning",
@@ -428,7 +428,7 @@
                         "open_issues": 143,
                         "owner": "google-deepmind",
                         "repo": "dm_control",
-                        "stars": 4708,
+                        "stars": 4709,
                         "topics": [
                           "artificial-intelligence",
                           "deep-learning",
@@ -569,7 +569,7 @@
                         "open_issues": 118,
                         "owner": "ARISE-Initiative",
                         "repo": "robosuite",
-                        "stars": 2654,
+                        "stars": 2656,
                         "topics": [
                           "physics-simulation",
                           "reinforcement-learning",
@@ -642,10 +642,10 @@
                         "language": "Python",
                         "license": "MIT",
                         "last_commit": "2026-10-09T08:59:56Z",
-                        "open_issues": 19,
+                        "open_issues": 21,
                         "owner": "Farama-Foundation",
                         "repo": "Metaworld",
-                        "stars": 1890,
+                        "stars": 1893,
                         "topics": [
                           "benchmark-environments",
                           "meta-rl",
@@ -734,7 +734,7 @@
                         "open_issues": 143,
                         "owner": "google-deepmind",
                         "repo": "dm_control",
-                        "stars": 4708,
+                        "stars": 4709,
                         "topics": [
                           "artificial-intelligence",
                           "deep-learning",
@@ -770,7 +770,7 @@
                         "open_issues": 143,
                         "owner": "google-deepmind",
                         "repo": "dm_control",
-                        "stars": 4708,
+                        "stars": 4709,
                         "topics": [
                           "artificial-intelligence",
                           "deep-learning",
@@ -957,10 +957,10 @@
                         "language": "Python",
                         "license": "NOASSERTION",
                         "last_commit": "2026-10-10T22:26:38Z",
-                        "open_issues": 24,
+                        "open_issues": 27,
                         "owner": "Farama-Foundation",
                         "repo": "Minigrid",
-                        "stars": 2522,
+                        "stars": 2523,
                         "topics": [
                           "gridworld-environment",
                           "gymnasium",
@@ -1055,7 +1055,7 @@
                         "open_issues": 143,
                         "owner": "google-deepmind",
                         "repo": "dm_control",
-                        "stars": 4708,
+                        "stars": 4709,
                         "topics": [
                           "artificial-intelligence",
                           "deep-learning",
@@ -1175,7 +1175,7 @@
                         "open_issues": 22,
                         "owner": "oxwhirl",
                         "repo": "smac",
-                        "stars": 1370,
+                        "stars": 1371,
                         "topics": [
                           "benchmark",
                           "machine-learning",
@@ -1209,7 +1209,7 @@
                         "open_issues": 143,
                         "owner": "google-deepmind",
                         "repo": "dm_control",
-                        "stars": 4708,
+                        "stars": 4709,
                         "topics": [
                           "artificial-intelligence",
                           "deep-learning",
@@ -1424,10 +1424,10 @@
                         "language": "Python",
                         "license": "NOASSERTION",
                         "last_commit": "2026-10-10T22:26:38Z",
-                        "open_issues": 24,
+                        "open_issues": 27,
                         "owner": "Farama-Foundation",
                         "repo": "Minigrid",
-                        "stars": 2522,
+                        "stars": 2523,
                         "topics": [
                           "gridworld-environment",
                           "gymnasium",
@@ -1561,10 +1561,10 @@
                         "language": "Python",
                         "license": "MIT",
                         "last_commit": "2026-10-09T08:59:56Z",
-                        "open_issues": 19,
+                        "open_issues": 21,
                         "owner": "Farama-Foundation",
                         "repo": "Metaworld",
-                        "stars": 1890,
+                        "stars": 1893,
                         "topics": [
                           "benchmark-environments",
                           "meta-rl",
@@ -1597,7 +1597,7 @@
                         "open_issues": 143,
                         "owner": "google-deepmind",
                         "repo": "dm_control",
-                        "stars": 4708,
+                        "stars": 4709,
                         "topics": [
                           "artificial-intelligence",
                           "deep-learning",
@@ -1661,7 +1661,7 @@
                         "open_issues": 143,
                         "owner": "google-deepmind",
                         "repo": "dm_control",
-                        "stars": 4708,
+                        "stars": 4709,
                         "topics": [
                           "artificial-intelligence",
                           "deep-learning",
@@ -1781,7 +1781,7 @@
                         "open_issues": 143,
                         "owner": "google-deepmind",
                         "repo": "dm_control",
-                        "stars": 4708,
+                        "stars": 4709,
                         "topics": [
                           "artificial-intelligence",
                           "deep-learning",
@@ -1884,10 +1884,10 @@
                         "language": "Python",
                         "license": "MIT",
                         "last_commit": "2026-10-09T08:59:56Z",
-                        "open_issues": 19,
+                        "open_issues": 21,
                         "owner": "Farama-Foundation",
                         "repo": "Metaworld",
-                        "stars": 1890,
+                        "stars": 1893,
                         "topics": [
                           "benchmark-environments",
                           "meta-rl",
@@ -2111,7 +2111,7 @@
                         "open_issues": 143,
                         "owner": "google-deepmind",
                         "repo": "dm_control",
-                        "stars": 4708,
+                        "stars": 4709,
                         "topics": [
                           "artificial-intelligence",
                           "deep-learning",
@@ -2175,7 +2175,7 @@
                         "open_issues": 143,
                         "owner": "google-deepmind",
                         "repo": "dm_control",
-                        "stars": 4708,
+                        "stars": 4709,
                         "topics": [
                           "artificial-intelligence",
                           "deep-learning",
@@ -2246,7 +2246,7 @@
                         "open_issues": 143,
                         "owner": "google-deepmind",
                         "repo": "dm_control",
-                        "stars": 4708,
+                        "stars": 4709,
                         "topics": [
                           "artificial-intelligence",
                           "deep-learning",
@@ -2642,7 +2642,7 @@
                         "open_issues": 143,
                         "owner": "google-deepmind",
                         "repo": "dm_control",
-                        "stars": 4708,
+                        "stars": 4709,
                         "topics": [
                           "artificial-intelligence",
                           "deep-learning",
@@ -2874,7 +2874,7 @@
                         "open_issues": 143,
                         "owner": "google-deepmind",
                         "repo": "dm_control",
-                        "stars": 4708,
+                        "stars": 4709,
                         "topics": [
                           "artificial-intelligence",
                           "deep-learning",
@@ -3297,7 +3297,7 @@
                         "open_issues": 117,
                         "owner": "dennybritz",
                         "repo": "reinforcement-learning",
-                        "stars": 22149,
+                        "stars": 22150,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T16:54:20.214Z"
@@ -3409,7 +3409,7 @@
                         "open_issues": 143,
                         "owner": "google-deepmind",
                         "repo": "dm_control",
-                        "stars": 4708,
+                        "stars": 4709,
                         "topics": [
                           "artificial-intelligence",
                           "deep-learning",
@@ -3459,7 +3459,7 @@
                         "open_issues": 143,
                         "owner": "google-deepmind",
                         "repo": "dm_control",
-                        "stars": 4708,
+                        "stars": 4709,
                         "topics": [
                           "artificial-intelligence",
                           "deep-learning",
@@ -3495,7 +3495,7 @@
                         "open_issues": 143,
                         "owner": "google-deepmind",
                         "repo": "dm_control",
-                        "stars": 4708,
+                        "stars": 4709,
                         "topics": [
                           "artificial-intelligence",
                           "deep-learning",
@@ -3676,7 +3676,7 @@
                         "open_issues": 143,
                         "owner": "google-deepmind",
                         "repo": "dm_control",
-                        "stars": 4708,
+                        "stars": 4709,
                         "topics": [
                           "artificial-intelligence",
                           "deep-learning",
@@ -3894,7 +3894,7 @@
                         "open_issues": 143,
                         "owner": "google-deepmind",
                         "repo": "dm_control",
-                        "stars": 4708,
+                        "stars": 4709,
                         "topics": [
                           "artificial-intelligence",
                           "deep-learning",
@@ -3958,7 +3958,7 @@
                         "open_issues": 143,
                         "owner": "google-deepmind",
                         "repo": "dm_control",
-                        "stars": 4708,
+                        "stars": 4709,
                         "topics": [
                           "artificial-intelligence",
                           "deep-learning",
@@ -4236,7 +4236,7 @@
                         "open_issues": 143,
                         "owner": "google-deepmind",
                         "repo": "dm_control",
-                        "stars": 4708,
+                        "stars": 4709,
                         "topics": [
                           "artificial-intelligence",
                           "deep-learning",
@@ -4325,10 +4325,10 @@
                         "language": "Python",
                         "license": "NOASSERTION",
                         "last_commit": "2026-10-10T22:26:38Z",
-                        "open_issues": 24,
+                        "open_issues": 27,
                         "owner": "Farama-Foundation",
                         "repo": "Minigrid",
-                        "stars": 2522,
+                        "stars": 2523,
                         "topics": [
                           "gridworld-environment",
                           "gymnasium",
@@ -4441,10 +4441,10 @@
                         "language": "Python",
                         "license": "NOASSERTION",
                         "last_commit": "2026-10-10T22:26:38Z",
-                        "open_issues": 24,
+                        "open_issues": 27,
                         "owner": "Farama-Foundation",
                         "repo": "Minigrid",
-                        "stars": 2522,
+                        "stars": 2523,
                         "topics": [
                           "gridworld-environment",
                           "gymnasium",
@@ -4711,10 +4711,10 @@
                         "language": "Python",
                         "license": "MIT",
                         "last_commit": "2026-10-09T08:59:56Z",
-                        "open_issues": 19,
+                        "open_issues": 21,
                         "owner": "Farama-Foundation",
                         "repo": "Metaworld",
-                        "stars": 1890,
+                        "stars": 1893,
                         "topics": [
                           "benchmark-environments",
                           "meta-rl",
@@ -4954,10 +4954,10 @@
                         "language": "Python",
                         "license": "MIT",
                         "last_commit": "2026-10-09T08:59:56Z",
-                        "open_issues": 19,
+                        "open_issues": 21,
                         "owner": "Farama-Foundation",
                         "repo": "Metaworld",
-                        "stars": 1890,
+                        "stars": 1893,
                         "topics": [
                           "benchmark-environments",
                           "meta-rl",
@@ -5107,7 +5107,7 @@
                         "open_issues": 143,
                         "owner": "google-deepmind",
                         "repo": "dm_control",
-                        "stars": 4708,
+                        "stars": 4709,
                         "topics": [
                           "artificial-intelligence",
                           "deep-learning",
@@ -5211,7 +5211,7 @@
                     "open_issues": 143,
                     "owner": "google-deepmind",
                     "repo": "dm_control",
-                    "stars": 4708,
+                    "stars": 4709,
                     "topics": [
                       "artificial-intelligence",
                       "deep-learning",
@@ -5275,7 +5275,7 @@
                     "open_issues": 143,
                     "owner": "google-deepmind",
                     "repo": "dm_control",
-                    "stars": 4708,
+                    "stars": 4709,
                     "topics": [
                       "artificial-intelligence",
                       "deep-learning",
@@ -5400,7 +5400,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-12T12:23:53.090Z",
+    "last_updated": "2026-10-13T12:07:58.427Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome model based RL resources (continually updated)",
