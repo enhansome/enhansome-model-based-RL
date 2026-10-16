@@ -84,7 +84,7 @@
                         "open_issues": 128,
                         "owner": "openai",
                         "repo": "gym",
-                        "stars": 37241,
+                        "stars": 37242,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T16:54:20.214Z"
@@ -140,7 +140,7 @@
                         "open_issues": 128,
                         "owner": "openai",
                         "repo": "gym",
-                        "stars": 37241,
+                        "stars": 37242,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T16:54:20.214Z"
@@ -168,7 +168,7 @@
                         "open_issues": 128,
                         "owner": "openai",
                         "repo": "gym",
-                        "stars": 37241,
+                        "stars": 37242,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T16:54:20.214Z"
@@ -344,7 +344,7 @@
                         "open_issues": 128,
                         "owner": "openai",
                         "repo": "gym",
-                        "stars": 37241,
+                        "stars": 37242,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T16:54:20.214Z"
@@ -566,10 +566,10 @@
                         "language": "Python",
                         "license": "NOASSERTION",
                         "last_commit": "2026-07-11T23:47:48Z",
-                        "open_issues": 118,
+                        "open_issues": 120,
                         "owner": "ARISE-Initiative",
                         "repo": "robosuite",
-                        "stars": 2661,
+                        "stars": 2662,
                         "topics": [
                           "physics-simulation",
                           "reinforcement-learning",
@@ -806,7 +806,7 @@
                         "open_issues": 128,
                         "owner": "openai",
                         "repo": "gym",
-                        "stars": 37241,
+                        "stars": 37242,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T16:54:20.214Z"
@@ -834,7 +834,7 @@
                         "open_issues": 128,
                         "owner": "openai",
                         "repo": "gym",
-                        "stars": 37241,
+                        "stars": 37242,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T16:54:20.214Z"
@@ -862,7 +862,7 @@
                         "open_issues": 128,
                         "owner": "openai",
                         "repo": "gym",
-                        "stars": 37241,
+                        "stars": 37242,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T16:54:20.214Z"
@@ -956,11 +956,11 @@
                         "id": 114143182,
                         "language": "Python",
                         "license": "NOASSERTION",
-                        "last_commit": "2026-10-10T22:26:38Z",
+                        "last_commit": "2026-10-15T21:58:24Z",
                         "open_issues": 28,
                         "owner": "Farama-Foundation",
                         "repo": "Minigrid",
-                        "stars": 2525,
+                        "stars": 2526,
                         "topics": [
                           "gridworld-environment",
                           "gymnasium",
@@ -1017,7 +1017,7 @@
                         "language": "Python",
                         "license": "MIT",
                         "last_commit": "2026-10-14T21:56:02Z",
-                        "open_issues": 24,
+                        "open_issues": 25,
                         "owner": "Farama-Foundation",
                         "repo": "Gymnasium-Robotics",
                         "stars": 1959,
@@ -1423,11 +1423,11 @@
                         "id": 114143182,
                         "language": "Python",
                         "license": "NOASSERTION",
-                        "last_commit": "2026-10-10T22:26:38Z",
+                        "last_commit": "2026-10-15T21:58:24Z",
                         "open_issues": 28,
                         "owner": "Farama-Foundation",
                         "repo": "Minigrid",
-                        "stars": 2525,
+                        "stars": 2526,
                         "topics": [
                           "gridworld-environment",
                           "gymnasium",
@@ -1511,8 +1511,8 @@
                         "id": 547667434,
                         "language": "Python",
                         "license": "Apache-2.0",
-                        "last_commit": "2026-10-15T06:41:29Z",
-                        "open_issues": 51,
+                        "last_commit": "2026-10-15T10:32:08Z",
+                        "open_issues": 50,
                         "owner": "opendilab",
                         "repo": "LightZero",
                         "stars": 1652,
@@ -1697,7 +1697,7 @@
                         "open_issues": 128,
                         "owner": "openai",
                         "repo": "gym",
-                        "stars": 37241,
+                        "stars": 37242,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T16:54:20.214Z"
@@ -1753,7 +1753,7 @@
                         "open_issues": 128,
                         "owner": "openai",
                         "repo": "gym",
-                        "stars": 37241,
+                        "stars": 37242,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T16:54:20.214Z"
@@ -1817,7 +1817,7 @@
                         "open_issues": 128,
                         "owner": "openai",
                         "repo": "gym",
-                        "stars": 37241,
+                        "stars": 37242,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T16:54:20.214Z"
@@ -2282,7 +2282,7 @@
                         "open_issues": 128,
                         "owner": "openai",
                         "repo": "gym",
-                        "stars": 37241,
+                        "stars": 37242,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T16:54:20.214Z"
@@ -2352,7 +2352,7 @@
                         "open_issues": 128,
                         "owner": "openai",
                         "repo": "gym",
-                        "stars": 37241,
+                        "stars": 37242,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T16:54:20.214Z"
@@ -2461,10 +2461,10 @@
                         "language": "Jupyter Notebook",
                         "license": "Apache-2.0",
                         "last_commit": "2026-06-17T13:51:27Z",
-                        "open_issues": 359,
+                        "open_issues": 358,
                         "owner": "google-deepmind",
                         "repo": "deepmind-research",
-                        "stars": 15235,
+                        "stars": 15234,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T16:54:20.214Z"
@@ -2548,7 +2548,7 @@
                         "open_issues": 22,
                         "owner": "aravindr93",
                         "repo": "mjrl",
-                        "stars": 469,
+                        "stars": 468,
                         "topics": [
                           "mujoco",
                           "reinforcement-learning",
@@ -2609,7 +2609,7 @@
                         "open_issues": 113,
                         "owner": "google",
                         "repo": "brax",
-                        "stars": 3247,
+                        "stars": 3248,
                         "topics": [
                           "jax",
                           "physics-simulation",
@@ -2734,7 +2734,7 @@
                         "open_issues": 128,
                         "owner": "openai",
                         "repo": "gym",
-                        "stars": 37241,
+                        "stars": 37242,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T16:54:20.214Z"
@@ -2762,7 +2762,7 @@
                         "open_issues": 128,
                         "owner": "openai",
                         "repo": "gym",
-                        "stars": 37241,
+                        "stars": 37242,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T16:54:20.214Z"
@@ -2790,7 +2790,7 @@
                         "open_issues": 128,
                         "owner": "openai",
                         "repo": "gym",
-                        "stars": 37241,
+                        "stars": 37242,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T16:54:20.214Z"
@@ -2818,7 +2818,7 @@
                         "open_issues": 128,
                         "owner": "openai",
                         "repo": "gym",
-                        "stars": 37241,
+                        "stars": 37242,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T16:54:20.214Z"
@@ -3036,7 +3036,7 @@
                         "open_issues": 63,
                         "owner": "openai",
                         "repo": "multiagent-particle-envs",
-                        "stars": 2776,
+                        "stars": 2777,
                         "topics": [
                           "paper"
                         ]
@@ -3066,7 +3066,7 @@
                         "open_issues": 64,
                         "owner": "google-deepmind",
                         "repo": "pysc2",
-                        "stars": 8330,
+                        "stars": 8331,
                         "topics": [
                           "blizzard-api",
                           "deepmind",
@@ -3381,7 +3381,7 @@
                         "open_issues": 128,
                         "owner": "openai",
                         "repo": "gym",
-                        "stars": 37241,
+                        "stars": 37242,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T16:54:20.214Z"
@@ -3531,7 +3531,7 @@
                         "open_issues": 128,
                         "owner": "openai",
                         "repo": "gym",
-                        "stars": 37241,
+                        "stars": 37242,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T16:54:20.214Z"
@@ -3782,7 +3782,7 @@
                         "open_issues": 128,
                         "owner": "openai",
                         "repo": "gym",
-                        "stars": 37241,
+                        "stars": 37242,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T16:54:20.214Z"
@@ -3866,7 +3866,7 @@
                         "open_issues": 128,
                         "owner": "openai",
                         "repo": "gym",
-                        "stars": 37241,
+                        "stars": 37242,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T16:54:20.214Z"
@@ -3930,7 +3930,7 @@
                         "open_issues": 128,
                         "owner": "openai",
                         "repo": "gym",
-                        "stars": 37241,
+                        "stars": 37242,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T16:54:20.214Z"
@@ -4272,7 +4272,7 @@
                         "open_issues": 128,
                         "owner": "openai",
                         "repo": "gym",
-                        "stars": 37241,
+                        "stars": 37242,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T16:54:20.214Z"
@@ -4324,11 +4324,11 @@
                         "id": 114143182,
                         "language": "Python",
                         "license": "NOASSERTION",
-                        "last_commit": "2026-10-10T22:26:38Z",
+                        "last_commit": "2026-10-15T21:58:24Z",
                         "open_issues": 28,
                         "owner": "Farama-Foundation",
                         "repo": "Minigrid",
-                        "stars": 2525,
+                        "stars": 2526,
                         "topics": [
                           "gridworld-environment",
                           "gymnasium",
@@ -4360,7 +4360,7 @@
                         "open_issues": 128,
                         "owner": "openai",
                         "repo": "gym",
-                        "stars": 37241,
+                        "stars": 37242,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T16:54:20.214Z"
@@ -4385,10 +4385,10 @@
                         "language": "Jupyter Notebook",
                         "license": "Apache-2.0",
                         "last_commit": "2026-06-17T13:51:27Z",
-                        "open_issues": 359,
+                        "open_issues": 358,
                         "owner": "google-deepmind",
                         "repo": "deepmind-research",
-                        "stars": 15235,
+                        "stars": 15234,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T16:54:20.214Z"
@@ -4416,7 +4416,7 @@
                         "open_issues": 128,
                         "owner": "openai",
                         "repo": "gym",
-                        "stars": 37241,
+                        "stars": 37242,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T16:54:20.214Z"
@@ -4440,11 +4440,11 @@
                         "id": 114143182,
                         "language": "Python",
                         "license": "NOASSERTION",
-                        "last_commit": "2026-10-10T22:26:38Z",
+                        "last_commit": "2026-10-15T21:58:24Z",
                         "open_issues": 28,
                         "owner": "Farama-Foundation",
                         "repo": "Minigrid",
-                        "stars": 2525,
+                        "stars": 2526,
                         "topics": [
                           "gridworld-environment",
                           "gymnasium",
@@ -4686,7 +4686,7 @@
                         "open_issues": 128,
                         "owner": "openai",
                         "repo": "gym",
-                        "stars": 37241,
+                        "stars": 37242,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T16:54:20.214Z"
@@ -4744,10 +4744,10 @@
                         "language": "Jupyter Notebook",
                         "license": "Apache-2.0",
                         "last_commit": "2026-06-17T13:51:27Z",
-                        "open_issues": 359,
+                        "open_issues": 358,
                         "owner": "google-deepmind",
                         "repo": "deepmind-research",
-                        "stars": 15235,
+                        "stars": 15234,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T16:54:20.214Z"
@@ -4803,7 +4803,7 @@
                         "open_issues": 128,
                         "owner": "openai",
                         "repo": "gym",
-                        "stars": 37241,
+                        "stars": 37242,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T16:54:20.214Z"
@@ -4859,7 +4859,7 @@
                         "open_issues": 128,
                         "owner": "openai",
                         "repo": "gym",
-                        "stars": 37241,
+                        "stars": 37242,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T16:54:20.214Z"
@@ -4929,7 +4929,7 @@
                         "open_issues": 128,
                         "owner": "openai",
                         "repo": "gym",
-                        "stars": 37241,
+                        "stars": 37242,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T16:54:20.214Z"
@@ -5018,7 +5018,7 @@
                         "open_issues": 128,
                         "owner": "openai",
                         "repo": "gym",
-                        "stars": 37241,
+                        "stars": 37242,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T16:54:20.214Z"
@@ -5079,7 +5079,7 @@
                         "open_issues": 128,
                         "owner": "openai",
                         "repo": "gym",
-                        "stars": 37241,
+                        "stars": 37242,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T16:54:20.214Z"
@@ -5143,7 +5143,7 @@
                         "open_issues": 128,
                         "owner": "openai",
                         "repo": "gym",
-                        "stars": 37241,
+                        "stars": 37242,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T16:54:20.214Z"
@@ -5400,7 +5400,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-15T09:22:53.391Z",
+    "last_updated": "2026-10-16T09:15:32.537Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome model based RL resources (continually updated)",
