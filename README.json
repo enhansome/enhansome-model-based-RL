@@ -84,7 +84,7 @@
                         "open_issues": 128,
                         "owner": "openai",
                         "repo": "gym",
-                        "stars": 37235,
+                        "stars": 37234,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T16:54:20.214Z"
@@ -140,7 +140,7 @@
                         "open_issues": 128,
                         "owner": "openai",
                         "repo": "gym",
-                        "stars": 37235,
+                        "stars": 37234,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T16:54:20.214Z"
@@ -168,7 +168,7 @@
                         "open_issues": 128,
                         "owner": "openai",
                         "repo": "gym",
-                        "stars": 37235,
+                        "stars": 37234,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T16:54:20.214Z"
@@ -344,7 +344,7 @@
                         "open_issues": 128,
                         "owner": "openai",
                         "repo": "gym",
-                        "stars": 37235,
+                        "stars": 37234,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T16:54:20.214Z"
@@ -513,7 +513,7 @@
                         "open_issues": 107,
                         "owner": "Farama-Foundation",
                         "repo": "D4RL",
-                        "stars": 1709,
+                        "stars": 1710,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T16:54:20.214Z"
@@ -541,7 +541,7 @@
                         "open_issues": 107,
                         "owner": "Farama-Foundation",
                         "repo": "D4RL",
-                        "stars": 1709,
+                        "stars": 1710,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T16:54:20.214Z"
@@ -566,10 +566,10 @@
                         "language": "Python",
                         "license": "NOASSERTION",
                         "last_commit": "2026-07-11T23:47:48Z",
-                        "open_issues": 123,
+                        "open_issues": 124,
                         "owner": "ARISE-Initiative",
                         "repo": "robosuite",
-                        "stars": 2676,
+                        "stars": 2677,
                         "topics": [
                           "physics-simulation",
                           "reinforcement-learning",
@@ -645,7 +645,7 @@
                         "open_issues": 22,
                         "owner": "Farama-Foundation",
                         "repo": "Metaworld",
-                        "stars": 1899,
+                        "stars": 1900,
                         "topics": [
                           "benchmark-environments",
                           "meta-rl",
@@ -678,7 +678,7 @@
                         "open_issues": 96,
                         "owner": "stepjam",
                         "repo": "RLBench",
-                        "stars": 1833,
+                        "stars": 1834,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T16:54:20.214Z"
@@ -806,7 +806,7 @@
                         "open_issues": 128,
                         "owner": "openai",
                         "repo": "gym",
-                        "stars": 37235,
+                        "stars": 37234,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T16:54:20.214Z"
@@ -834,7 +834,7 @@
                         "open_issues": 128,
                         "owner": "openai",
                         "repo": "gym",
-                        "stars": 37235,
+                        "stars": 37234,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T16:54:20.214Z"
@@ -862,7 +862,7 @@
                         "open_issues": 128,
                         "owner": "openai",
                         "repo": "gym",
-                        "stars": 37235,
+                        "stars": 37234,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T16:54:20.214Z"
@@ -904,7 +904,7 @@
                         "open_issues": 107,
                         "owner": "Farama-Foundation",
                         "repo": "D4RL",
-                        "stars": 1709,
+                        "stars": 1710,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T16:54:20.214Z"
@@ -960,7 +960,7 @@
                         "open_issues": 32,
                         "owner": "Farama-Foundation",
                         "repo": "Minigrid",
-                        "stars": 2528,
+                        "stars": 2529,
                         "topics": [
                           "gridworld-environment",
                           "gymnasium",
@@ -1175,7 +1175,7 @@
                         "open_issues": 22,
                         "owner": "oxwhirl",
                         "repo": "smac",
-                        "stars": 1371,
+                        "stars": 1372,
                         "topics": [
                           "benchmark",
                           "machine-learning",
@@ -1245,7 +1245,7 @@
                         "open_issues": 107,
                         "owner": "Farama-Foundation",
                         "repo": "D4RL",
-                        "stars": 1709,
+                        "stars": 1710,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T16:54:20.214Z"
@@ -1301,7 +1301,7 @@
                         "open_issues": 107,
                         "owner": "Farama-Foundation",
                         "repo": "D4RL",
-                        "stars": 1709,
+                        "stars": 1710,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T16:54:20.214Z"
@@ -1427,7 +1427,7 @@
                         "open_issues": 32,
                         "owner": "Farama-Foundation",
                         "repo": "Minigrid",
-                        "stars": 2528,
+                        "stars": 2529,
                         "topics": [
                           "gridworld-environment",
                           "gymnasium",
@@ -1487,7 +1487,7 @@
                         "open_issues": 107,
                         "owner": "Farama-Foundation",
                         "repo": "D4RL",
-                        "stars": 1709,
+                        "stars": 1710,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T16:54:20.214Z"
@@ -1564,7 +1564,7 @@
                         "open_issues": 22,
                         "owner": "Farama-Foundation",
                         "repo": "Metaworld",
-                        "stars": 1899,
+                        "stars": 1900,
                         "topics": [
                           "benchmark-environments",
                           "meta-rl",
@@ -1697,7 +1697,7 @@
                         "open_issues": 128,
                         "owner": "openai",
                         "repo": "gym",
-                        "stars": 37235,
+                        "stars": 37234,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T16:54:20.214Z"
@@ -1753,7 +1753,7 @@
                         "open_issues": 128,
                         "owner": "openai",
                         "repo": "gym",
-                        "stars": 37235,
+                        "stars": 37234,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T16:54:20.214Z"
@@ -1817,7 +1817,7 @@
                         "open_issues": 128,
                         "owner": "openai",
                         "repo": "gym",
-                        "stars": 37235,
+                        "stars": 37234,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T16:54:20.214Z"
@@ -1887,7 +1887,7 @@
                         "open_issues": 22,
                         "owner": "Farama-Foundation",
                         "repo": "Metaworld",
-                        "stars": 1899,
+                        "stars": 1900,
                         "topics": [
                           "benchmark-environments",
                           "meta-rl",
@@ -2147,7 +2147,7 @@
                         "open_issues": 107,
                         "owner": "Farama-Foundation",
                         "repo": "D4RL",
-                        "stars": 1709,
+                        "stars": 1710,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T16:54:20.214Z"
@@ -2282,7 +2282,7 @@
                         "open_issues": 128,
                         "owner": "openai",
                         "repo": "gym",
-                        "stars": 37235,
+                        "stars": 37234,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T16:54:20.214Z"
@@ -2310,7 +2310,7 @@
                         "open_issues": 107,
                         "owner": "Farama-Foundation",
                         "repo": "D4RL",
-                        "stars": 1709,
+                        "stars": 1710,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T16:54:20.214Z"
@@ -2352,7 +2352,7 @@
                         "open_issues": 128,
                         "owner": "openai",
                         "repo": "gym",
-                        "stars": 37235,
+                        "stars": 37234,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T16:54:20.214Z"
@@ -2380,7 +2380,7 @@
                         "open_issues": 107,
                         "owner": "Farama-Foundation",
                         "repo": "D4RL",
-                        "stars": 1709,
+                        "stars": 1710,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T16:54:20.214Z"
@@ -2436,7 +2436,7 @@
                         "open_issues": 107,
                         "owner": "Farama-Foundation",
                         "repo": "D4RL",
-                        "stars": 1709,
+                        "stars": 1710,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T16:54:20.214Z"
@@ -2492,7 +2492,7 @@
                         "open_issues": 107,
                         "owner": "Farama-Foundation",
                         "repo": "D4RL",
-                        "stars": 1709,
+                        "stars": 1710,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T16:54:20.214Z"
@@ -2734,7 +2734,7 @@
                         "open_issues": 128,
                         "owner": "openai",
                         "repo": "gym",
-                        "stars": 37235,
+                        "stars": 37234,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T16:54:20.214Z"
@@ -2762,7 +2762,7 @@
                         "open_issues": 128,
                         "owner": "openai",
                         "repo": "gym",
-                        "stars": 37235,
+                        "stars": 37234,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T16:54:20.214Z"
@@ -2790,7 +2790,7 @@
                         "open_issues": 128,
                         "owner": "openai",
                         "repo": "gym",
-                        "stars": 37235,
+                        "stars": 37234,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T16:54:20.214Z"
@@ -2818,7 +2818,7 @@
                         "open_issues": 128,
                         "owner": "openai",
                         "repo": "gym",
-                        "stars": 37235,
+                        "stars": 37234,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T16:54:20.214Z"
@@ -2952,7 +2952,7 @@
                         "open_issues": 107,
                         "owner": "Farama-Foundation",
                         "repo": "D4RL",
-                        "stars": 1709,
+                        "stars": 1710,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T16:54:20.214Z"
@@ -2980,7 +2980,7 @@
                         "open_issues": 107,
                         "owner": "Farama-Foundation",
                         "repo": "D4RL",
-                        "stars": 1709,
+                        "stars": 1710,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T16:54:20.214Z"
@@ -3008,7 +3008,7 @@
                         "open_issues": 107,
                         "owner": "Farama-Foundation",
                         "repo": "D4RL",
-                        "stars": 1709,
+                        "stars": 1710,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T16:54:20.214Z"
@@ -3066,7 +3066,7 @@
                         "open_issues": 65,
                         "owner": "google-deepmind",
                         "repo": "pysc2",
-                        "stars": 8332,
+                        "stars": 8331,
                         "topics": [
                           "blizzard-api",
                           "deepmind",
@@ -3297,7 +3297,7 @@
                         "open_issues": 117,
                         "owner": "dennybritz",
                         "repo": "reinforcement-learning",
-                        "stars": 22155,
+                        "stars": 22156,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T16:54:20.214Z"
@@ -3325,7 +3325,7 @@
                         "open_issues": 107,
                         "owner": "Farama-Foundation",
                         "repo": "D4RL",
-                        "stars": 1709,
+                        "stars": 1710,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T16:54:20.214Z"
@@ -3381,7 +3381,7 @@
                         "open_issues": 128,
                         "owner": "openai",
                         "repo": "gym",
-                        "stars": 37235,
+                        "stars": 37234,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T16:54:20.214Z"
@@ -3531,7 +3531,7 @@
                         "open_issues": 128,
                         "owner": "openai",
                         "repo": "gym",
-                        "stars": 37235,
+                        "stars": 37234,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T16:54:20.214Z"
@@ -3620,7 +3620,7 @@
                         "open_issues": 107,
                         "owner": "Farama-Foundation",
                         "repo": "D4RL",
-                        "stars": 1709,
+                        "stars": 1710,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T16:54:20.214Z"
@@ -3726,7 +3726,7 @@
                         "open_issues": 107,
                         "owner": "Farama-Foundation",
                         "repo": "D4RL",
-                        "stars": 1709,
+                        "stars": 1710,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T16:54:20.214Z"
@@ -3782,7 +3782,7 @@
                         "open_issues": 128,
                         "owner": "openai",
                         "repo": "gym",
-                        "stars": 37235,
+                        "stars": 37234,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T16:54:20.214Z"
@@ -3810,7 +3810,7 @@
                         "open_issues": 107,
                         "owner": "Farama-Foundation",
                         "repo": "D4RL",
-                        "stars": 1709,
+                        "stars": 1710,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T16:54:20.214Z"
@@ -3866,7 +3866,7 @@
                         "open_issues": 128,
                         "owner": "openai",
                         "repo": "gym",
-                        "stars": 37235,
+                        "stars": 37234,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T16:54:20.214Z"
@@ -3930,7 +3930,7 @@
                         "open_issues": 128,
                         "owner": "openai",
                         "repo": "gym",
-                        "stars": 37235,
+                        "stars": 37234,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T16:54:20.214Z"
@@ -3994,7 +3994,7 @@
                         "open_issues": 33,
                         "owner": "benelot",
                         "repo": "pybullet-gym",
-                        "stars": 884,
+                        "stars": 885,
                         "topics": [
                           "openai-gym",
                           "pybullet",
@@ -4082,7 +4082,7 @@
                         "open_issues": 107,
                         "owner": "Farama-Foundation",
                         "repo": "D4RL",
-                        "stars": 1709,
+                        "stars": 1710,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T16:54:20.214Z"
@@ -4180,7 +4180,7 @@
                         "open_issues": 107,
                         "owner": "Farama-Foundation",
                         "repo": "D4RL",
-                        "stars": 1709,
+                        "stars": 1710,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T16:54:20.214Z"
@@ -4272,7 +4272,7 @@
                         "open_issues": 128,
                         "owner": "openai",
                         "repo": "gym",
-                        "stars": 37235,
+                        "stars": 37234,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T16:54:20.214Z"
@@ -4328,7 +4328,7 @@
                         "open_issues": 32,
                         "owner": "Farama-Foundation",
                         "repo": "Minigrid",
-                        "stars": 2528,
+                        "stars": 2529,
                         "topics": [
                           "gridworld-environment",
                           "gymnasium",
@@ -4360,7 +4360,7 @@
                         "open_issues": 128,
                         "owner": "openai",
                         "repo": "gym",
-                        "stars": 37235,
+                        "stars": 37234,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T16:54:20.214Z"
@@ -4416,7 +4416,7 @@
                         "open_issues": 128,
                         "owner": "openai",
                         "repo": "gym",
-                        "stars": 37235,
+                        "stars": 37234,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T16:54:20.214Z"
@@ -4444,7 +4444,7 @@
                         "open_issues": 32,
                         "owner": "Farama-Foundation",
                         "repo": "Minigrid",
-                        "stars": 2528,
+                        "stars": 2529,
                         "topics": [
                           "gridworld-environment",
                           "gymnasium",
@@ -4476,7 +4476,7 @@
                         "open_issues": 107,
                         "owner": "Farama-Foundation",
                         "repo": "D4RL",
-                        "stars": 1709,
+                        "stars": 1710,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T16:54:20.214Z"
@@ -4532,7 +4532,7 @@
                         "open_issues": 107,
                         "owner": "Farama-Foundation",
                         "repo": "D4RL",
-                        "stars": 1709,
+                        "stars": 1710,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T16:54:20.214Z"
@@ -4560,7 +4560,7 @@
                         "open_issues": 107,
                         "owner": "Farama-Foundation",
                         "repo": "D4RL",
-                        "stars": 1709,
+                        "stars": 1710,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T16:54:20.214Z"
@@ -4588,7 +4588,7 @@
                         "open_issues": 107,
                         "owner": "Farama-Foundation",
                         "repo": "D4RL",
-                        "stars": 1709,
+                        "stars": 1710,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T16:54:20.214Z"
@@ -4658,7 +4658,7 @@
                         "open_issues": 107,
                         "owner": "Farama-Foundation",
                         "repo": "D4RL",
-                        "stars": 1709,
+                        "stars": 1710,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T16:54:20.214Z"
@@ -4686,7 +4686,7 @@
                         "open_issues": 128,
                         "owner": "openai",
                         "repo": "gym",
-                        "stars": 37235,
+                        "stars": 37234,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T16:54:20.214Z"
@@ -4714,7 +4714,7 @@
                         "open_issues": 22,
                         "owner": "Farama-Foundation",
                         "repo": "Metaworld",
-                        "stars": 1899,
+                        "stars": 1900,
                         "topics": [
                           "benchmark-environments",
                           "meta-rl",
@@ -4803,7 +4803,7 @@
                         "open_issues": 128,
                         "owner": "openai",
                         "repo": "gym",
-                        "stars": 37235,
+                        "stars": 37234,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T16:54:20.214Z"
@@ -4831,7 +4831,7 @@
                         "open_issues": 107,
                         "owner": "Farama-Foundation",
                         "repo": "D4RL",
-                        "stars": 1709,
+                        "stars": 1710,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T16:54:20.214Z"
@@ -4859,7 +4859,7 @@
                         "open_issues": 128,
                         "owner": "openai",
                         "repo": "gym",
-                        "stars": 37235,
+                        "stars": 37234,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T16:54:20.214Z"
@@ -4929,7 +4929,7 @@
                         "open_issues": 128,
                         "owner": "openai",
                         "repo": "gym",
-                        "stars": 37235,
+                        "stars": 37234,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T16:54:20.214Z"
@@ -4957,7 +4957,7 @@
                         "open_issues": 22,
                         "owner": "Farama-Foundation",
                         "repo": "Metaworld",
-                        "stars": 1899,
+                        "stars": 1900,
                         "topics": [
                           "benchmark-environments",
                           "meta-rl",
@@ -5018,7 +5018,7 @@
                         "open_issues": 128,
                         "owner": "openai",
                         "repo": "gym",
-                        "stars": 37235,
+                        "stars": 37234,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T16:54:20.214Z"
@@ -5046,7 +5046,7 @@
                         "open_issues": 68,
                         "owner": "google-deepmind",
                         "repo": "lab",
-                        "stars": 7392,
+                        "stars": 7389,
                         "topics": [
                           "artificial-intelligence",
                           "deep-learning",
@@ -5079,7 +5079,7 @@
                         "open_issues": 128,
                         "owner": "openai",
                         "repo": "gym",
-                        "stars": 37235,
+                        "stars": 37234,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T16:54:20.214Z"
@@ -5143,7 +5143,7 @@
                         "open_issues": 128,
                         "owner": "openai",
                         "repo": "gym",
-                        "stars": 37235,
+                        "stars": 37234,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T16:54:20.214Z"
@@ -5183,7 +5183,7 @@
                     "open_issues": 107,
                     "owner": "Farama-Foundation",
                     "repo": "D4RL",
-                    "stars": 1709,
+                    "stars": 1710,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T16:54:20.214Z"
@@ -5345,7 +5345,7 @@
             "open_issues": 26,
             "owner": "opendilab",
             "repo": "DI-engine",
-            "stars": 3648,
+            "stars": 3649,
             "topics": [
               "atari",
               "distributed-reinforcement-learning",
@@ -5400,7 +5400,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-23T09:32:01.152Z",
+    "last_updated": "2026-10-24T09:05:07.901Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome model based RL resources (continually updated)",
