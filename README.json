@@ -566,10 +566,10 @@
                         "language": "Python",
                         "license": "NOASSERTION",
                         "last_commit": "2026-07-11T23:47:48Z",
-                        "open_issues": 124,
+                        "open_issues": 125,
                         "owner": "ARISE-Initiative",
                         "repo": "robosuite",
-                        "stars": 2687,
+                        "stars": 2688,
                         "topics": [
                           "physics-simulation",
                           "reinforcement-learning",
@@ -642,10 +642,10 @@
                         "language": "Python",
                         "license": "MIT",
                         "last_commit": "2026-10-09T08:59:56Z",
-                        "open_issues": 22,
+                        "open_issues": 23,
                         "owner": "Farama-Foundation",
                         "repo": "Metaworld",
-                        "stars": 1903,
+                        "stars": 1904,
                         "topics": [
                           "benchmark-environments",
                           "meta-rl",
@@ -678,7 +678,7 @@
                         "open_issues": 96,
                         "owner": "stepjam",
                         "repo": "RLBench",
-                        "stars": 1834,
+                        "stars": 1835,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T16:54:20.214Z"
@@ -1561,10 +1561,10 @@
                         "language": "Python",
                         "license": "MIT",
                         "last_commit": "2026-10-09T08:59:56Z",
-                        "open_issues": 22,
+                        "open_issues": 23,
                         "owner": "Farama-Foundation",
                         "repo": "Metaworld",
-                        "stars": 1903,
+                        "stars": 1904,
                         "topics": [
                           "benchmark-environments",
                           "meta-rl",
@@ -1884,10 +1884,10 @@
                         "language": "Python",
                         "license": "MIT",
                         "last_commit": "2026-10-09T08:59:56Z",
-                        "open_issues": 22,
+                        "open_issues": 23,
                         "owner": "Farama-Foundation",
                         "repo": "Metaworld",
-                        "stars": 1903,
+                        "stars": 1904,
                         "topics": [
                           "benchmark-environments",
                           "meta-rl",
@@ -2464,7 +2464,7 @@
                         "open_issues": 358,
                         "owner": "google-deepmind",
                         "repo": "deepmind-research",
-                        "stars": 15252,
+                        "stars": 15255,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T16:54:20.214Z"
@@ -2606,7 +2606,7 @@
                         "language": "Jupyter Notebook",
                         "license": "Apache-2.0",
                         "last_commit": "2026-10-20T10:36:12Z",
-                        "open_issues": 115,
+                        "open_issues": 117,
                         "owner": "google",
                         "repo": "brax",
                         "stars": 3252,
@@ -3066,7 +3066,7 @@
                         "open_issues": 65,
                         "owner": "google-deepmind",
                         "repo": "pysc2",
-                        "stars": 8330,
+                        "stars": 8327,
                         "topics": [
                           "blizzard-api",
                           "deepmind",
@@ -3297,7 +3297,7 @@
                         "open_issues": 117,
                         "owner": "dennybritz",
                         "repo": "reinforcement-learning",
-                        "stars": 22162,
+                        "stars": 22163,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T16:54:20.214Z"
@@ -4388,7 +4388,7 @@
                         "open_issues": 358,
                         "owner": "google-deepmind",
                         "repo": "deepmind-research",
-                        "stars": 15252,
+                        "stars": 15255,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T16:54:20.214Z"
@@ -4711,10 +4711,10 @@
                         "language": "Python",
                         "license": "MIT",
                         "last_commit": "2026-10-09T08:59:56Z",
-                        "open_issues": 22,
+                        "open_issues": 23,
                         "owner": "Farama-Foundation",
                         "repo": "Metaworld",
-                        "stars": 1903,
+                        "stars": 1904,
                         "topics": [
                           "benchmark-environments",
                           "meta-rl",
@@ -4747,7 +4747,7 @@
                         "open_issues": 358,
                         "owner": "google-deepmind",
                         "repo": "deepmind-research",
-                        "stars": 15252,
+                        "stars": 15255,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T16:54:20.214Z"
@@ -4954,10 +4954,10 @@
                         "language": "Python",
                         "license": "MIT",
                         "last_commit": "2026-10-09T08:59:56Z",
-                        "open_issues": 22,
+                        "open_issues": 23,
                         "owner": "Farama-Foundation",
                         "repo": "Metaworld",
-                        "stars": 1903,
+                        "stars": 1904,
                         "topics": [
                           "benchmark-environments",
                           "meta-rl",
@@ -5046,7 +5046,7 @@
                         "open_issues": 68,
                         "owner": "google-deepmind",
                         "repo": "lab",
-                        "stars": 7391,
+                        "stars": 7390,
                         "topics": [
                           "artificial-intelligence",
                           "deep-learning",
@@ -5407,8 +5407,8 @@
             "id": 1096700651,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-27T07:00:06Z",
-            "open_issues": 30,
+            "last_commit": "2026-10-29T06:54:41Z",
+            "open_issues": 31,
             "owner": "ParamThakkar123",
             "repo": "simulusion",
             "stars": 31,
@@ -5436,7 +5436,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-28T10:47:21.554Z",
+    "last_updated": "2026-10-29T11:03:50.898Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome model based RL resources (continually updated)",
