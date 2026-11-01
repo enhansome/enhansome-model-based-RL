@@ -569,7 +569,7 @@
                         "open_issues": 128,
                         "owner": "ARISE-Initiative",
                         "repo": "robosuite",
-                        "stars": 2689,
+                        "stars": 2691,
                         "topics": [
                           "physics-simulation",
                           "reinforcement-learning",
@@ -957,10 +957,10 @@
                         "language": "Python",
                         "license": "NOASSERTION",
                         "last_commit": "2026-10-15T21:58:24Z",
-                        "open_issues": 33,
+                        "open_issues": 34,
                         "owner": "Farama-Foundation",
                         "repo": "Minigrid",
-                        "stars": 2535,
+                        "stars": 2534,
                         "topics": [
                           "gridworld-environment",
                           "gymnasium",
@@ -1424,10 +1424,10 @@
                         "language": "Python",
                         "license": "NOASSERTION",
                         "last_commit": "2026-10-15T21:58:24Z",
-                        "open_issues": 33,
+                        "open_issues": 34,
                         "owner": "Farama-Foundation",
                         "repo": "Minigrid",
-                        "stars": 2535,
+                        "stars": 2534,
                         "topics": [
                           "gridworld-environment",
                           "gymnasium",
@@ -1515,7 +1515,7 @@
                         "open_issues": 51,
                         "owner": "opendilab",
                         "repo": "LightZero",
-                        "stars": 1657,
+                        "stars": 1658,
                         "topics": [
                           "alpha-beta-pruning",
                           "alphazero",
@@ -2464,7 +2464,7 @@
                         "open_issues": 358,
                         "owner": "google-deepmind",
                         "repo": "deepmind-research",
-                        "stars": 15260,
+                        "stars": 15262,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T16:54:20.214Z"
@@ -3297,7 +3297,7 @@
                         "open_issues": 117,
                         "owner": "dennybritz",
                         "repo": "reinforcement-learning",
-                        "stars": 22166,
+                        "stars": 22167,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T16:54:20.214Z"
@@ -4325,10 +4325,10 @@
                         "language": "Python",
                         "license": "NOASSERTION",
                         "last_commit": "2026-10-15T21:58:24Z",
-                        "open_issues": 33,
+                        "open_issues": 34,
                         "owner": "Farama-Foundation",
                         "repo": "Minigrid",
-                        "stars": 2535,
+                        "stars": 2534,
                         "topics": [
                           "gridworld-environment",
                           "gymnasium",
@@ -4388,7 +4388,7 @@
                         "open_issues": 358,
                         "owner": "google-deepmind",
                         "repo": "deepmind-research",
-                        "stars": 15260,
+                        "stars": 15262,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T16:54:20.214Z"
@@ -4441,10 +4441,10 @@
                         "language": "Python",
                         "license": "NOASSERTION",
                         "last_commit": "2026-10-15T21:58:24Z",
-                        "open_issues": 33,
+                        "open_issues": 34,
                         "owner": "Farama-Foundation",
                         "repo": "Minigrid",
-                        "stars": 2535,
+                        "stars": 2534,
                         "topics": [
                           "gridworld-environment",
                           "gymnasium",
@@ -4747,7 +4747,7 @@
                         "open_issues": 358,
                         "owner": "google-deepmind",
                         "repo": "deepmind-research",
-                        "stars": 15260,
+                        "stars": 15262,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T16:54:20.214Z"
@@ -5046,7 +5046,7 @@
                         "open_issues": 68,
                         "owner": "google-deepmind",
                         "repo": "lab",
-                        "stars": 7390,
+                        "stars": 7393,
                         "topics": [
                           "artificial-intelligence",
                           "deep-learning",
@@ -5407,8 +5407,8 @@
             "id": 1096700651,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-29T06:54:41Z",
-            "open_issues": 31,
+            "last_commit": "2026-11-01T11:27:02Z",
+            "open_issues": 33,
             "owner": "ParamThakkar123",
             "repo": "simulusion",
             "stars": 32,
@@ -5436,7 +5436,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-31T10:34:19.246Z",
+    "last_updated": "2026-11-01T11:28:04.166Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome model based RL resources (continually updated)",
