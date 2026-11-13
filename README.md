@@ -1,6 +1,6 @@
 # Awesome Model-Based Reinforcement Learning with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 535,664 | 🐛 103 | 📅 2026-09-02 [![docs](https://img.shields.io/badge/docs-latest-blue)](https://github.com/opendilab/awesome-model-based-RL) ![GitHub stars](https://img.shields.io/github/stars/opendilab/awesome-model-based-RL?color=yellow) ![GitHub forks](https://img.shields.io/github/forks/opendilab/awesome-model-based-RL?color=9cf) [![GitHub license](https://img.shields.io/github/license/opendilab/awesome-model-based-RL)](https://github.com/opendilab/awesome-model-based-RL/blob/main/LICENSE)
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 536,209 | 🐛 103 | 📅 2026-09-02 [![docs](https://img.shields.io/badge/docs-latest-blue)](https://github.com/opendilab/awesome-model-based-RL) ![GitHub stars](https://img.shields.io/github/stars/opendilab/awesome-model-based-RL?color=yellow) ![GitHub forks](https://img.shields.io/github/forks/opendilab/awesome-model-based-RL?color=9cf) [![GitHub license](https://img.shields.io/github/license/opendilab/awesome-model-based-RL)](https://github.com/opendilab/awesome-model-based-RL/blob/main/LICENSE)
 
 This is a collection of research papers for **model-based reinforcement learning (mbrl)**.
 And the repository will be continuously updated to track the frontier of model-based rl.
@@ -713,7 +713,7 @@ format:
   * ExpEnv: D4RL, NeoRL, Gym MuJoCo-v3
 
 * [Discrete Codebook World Models for Continuous Control](https://openreview.net/forum?id=lfRYzd8ady)
-  * ExpEnv: [deepmind control suite](https://github.com/deepmind/dm_control) ⭐ 4,726 | 🐛 146 | 🌐 Python | 📅 2026-11-11, [Meta-World](https://github.com/Farama-Foundation/Metaworld) ⭐ 1,909 | 🐛 23 | 🌐 Python | 📅 2026-11-12, [myosuite](https://github.com/MyoHub/myosuite) ⭐ 1,285 | 🐛 71 | 🌐 Python | 📅 2026-11-12
+  * ExpEnv: [deepmind control suite](https://github.com/deepmind/dm_control) ⭐ 4,726 | 🐛 146 | 🌐 Python | 📅 2026-11-11, [Meta-World](https://github.com/Farama-Foundation/Metaworld) ⭐ 1,909 | 🐛 23 | 🌐 Python | 📅 2026-11-12, [myosuite](https://github.com/MyoHub/myosuite) ⭐ 1,286 | 🐛 88 | 🌐 Python | 📅 2026-11-13
   * Aidan Scannell, Mohammadreza Nakhaeinezhadfard, Kalle Kujanpää, Yi Zhao, Kevin Sebastian Luck, Arno Solin, Joni Pajarinen
   * Key: reinforcement learning, world model, representation learning, self-supervised learning, model-based reinforcement learning, continuous control
 
@@ -765,22 +765,22 @@ format:
   * ExpEnv: D4RL
 
 * [WorldCoder, a Model-Based LLM Agent: Building World Models by Writing Code and Interacting with the Environment](https://arxiv.org/abs/2402.12275)
-  * ExpEnv: [sokoban](https://github.com/mpSchrader/gym-sokoban) ⭐ 411 | 🐛 15 | 🌐 Python | 📅 2023-11-08, [minigrid](https://github.com/Farama-Foundation/Minigrid) ⭐ 2,540 | 🐛 42 | 🌐 Python | 📅 2026-11-12, [alfworld](https://github.com/alfworld/alfworld) ⭐ 914 | 🐛 16 | 🌐 Python | 📅 2026-02-08
+  * ExpEnv: [sokoban](https://github.com/mpSchrader/gym-sokoban) ⭐ 411 | 🐛 15 | 🌐 Python | 📅 2023-11-08, [minigrid](https://github.com/Farama-Foundation/Minigrid) ⭐ 2,540 | 🐛 42 | 🌐 Python | 📅 2026-11-12, [alfworld](https://github.com/alfworld/alfworld) ⭐ 915 | 🐛 16 | 🌐 Python | 📅 2026-02-08
   * Hao Tang, Darren Key, Kevin Ellis
   * Key: learn world models as code, LLM
 
 * [The Edge-of-Reach Problem in Offline Model-Based Reinforcement Learning](https://arxiv.org/abs/2402.12527)
-  * ExpEnv: [d4rl](https://github.com/Farama-Foundation/D4RL) ⭐ 1,713 | 🐛 107 | 🌐 Python | 📅 2024-11-18, [v-r4rl](https://github.com/conglu1997/v-d4rl) ⭐ 118 | 🐛 3 | 🌐 Python | 📅 2026-04-16
+  * ExpEnv: [d4rl](https://github.com/Farama-Foundation/D4RL) ⭐ 1,712 | 🐛 107 | 🌐 Python | 📅 2024-11-18, [v-r4rl](https://github.com/conglu1997/v-d4rl) ⭐ 118 | 🐛 3 | 🌐 Python | 📅 2026-04-16
   * Anya Sims, Cong Lu, Jakob Foerster, Yee Whye Teh
   * Key: edge-of-reach problem, reach-aware value learning
 
 * [Deterministic Uncertainty Propagation for Improved Model-Based Offline Reinforcement Learning](https://arxiv.org/abs/2406.04088)
-  * ExpEnv: [d4rl](https://github.com/Farama-Foundation/D4RL) ⭐ 1,713 | 🐛 107 | 🌐 Python | 📅 2024-11-18
+  * ExpEnv: [d4rl](https://github.com/Farama-Foundation/D4RL) ⭐ 1,712 | 🐛 107 | 🌐 Python | 📅 2024-11-18
   * Abdullah Akgül, Manuel Haussmann, Melih Kandemir
   * Key: The paper argues that uncertainty-based reward penalization introduces excessive conservatism, potentially resulting in suboptimal policies through underestimation.
 
 * [BECAUSE: Bilinear Causal Representation for Generalizable Offline Model-based Reinforcement Learning](https://arxiv.org/abs/2407.10967)
-  * ExpEnv: [list](https://github.com/ARISE-Initiative/robosuite) ⭐ 2,709 | 🐛 132 | 🌐 Python | 📅 2026-07-11, [unlock](https://github.com/Farama-Foundation/Minigrid) ⭐ 2,540 | 🐛 42 | 🌐 Python | 📅 2026-11-12, [crash](https://github.com/Farama-Foundation/HighwayEnv) ⭐ 3,342 | 🐛 50 | 🌐 Python | 📅 2026-11-11
+  * ExpEnv: [list](https://github.com/ARISE-Initiative/robosuite) ⭐ 2,711 | 🐛 133 | 🌐 Python | 📅 2026-07-11, [unlock](https://github.com/Farama-Foundation/Minigrid) ⭐ 2,540 | 🐛 42 | 🌐 Python | 📅 2026-11-12, [crash](https://github.com/Farama-Foundation/HighwayEnv) ⭐ 3,343 | 🐛 50 | 🌐 Python | 📅 2026-11-11
   * Haohong Lin, Wenhao Ding, Jian Chen, Laixi Shi, Jiacheng Zhu, Bo Li, DING ZHAO
   * Key: objective mismatch problem, capture causal representation for both states and actions
 
@@ -899,7 +899,7 @@ format:
 <summary>Toggle</summary>
 
 * [Policy Rehearsing: Training Generalizable Policies for Reinforcement Learning](https://openreview.net/forum?id=m3xVPaZp6Z)
-  * ExpEnv: [d4rl](https://github.com/rail-berkeley/d4rl) ⭐ 1,713 | 🐛 107 | 🌐 Python | 📅 2024-11-18
+  * ExpEnv: [d4rl](https://github.com/rail-berkeley/d4rl) ⭐ 1,712 | 🐛 107 | 🌐 Python | 📅 2024-11-18
   * Chengxing Jia, Chenxiao Gao, Hao Yin, Fuxiang Zhang, Xiong-Hui Chen, Tian Xu, Lei Yuan, Zongzhang Zhang, Zhi-Hua Zhou, Yang Yu
   * Key: Reinforcement Learning, Model-based Reinforcement Learning, Offline Reinforcement Learning
   * OpenReview: 8, 8, 8, 6
@@ -923,13 +923,13 @@ format:
   * OpenReview: 10, 8, 6
 
 * [Privileged Sensing Scaffolds Reinforcement Learning](https://openreview.net/forum?id=EpVe8jAjdx)
-  * ExpEnv: [gymnasium robotics](https://github.com/Farama-Foundation/Gymnasium-Robotics) ⭐ 1,965 | 🐛 35 | 🌐 Python | 📅 2026-11-12
+  * ExpEnv: [gymnasium robotics](https://github.com/Farama-Foundation/Gymnasium-Robotics) ⭐ 1,964 | 🐛 36 | 🌐 Python | 📅 2026-11-12
   * Edward S. Hu, James Springer, Oleh Rybkin, Dinesh Jayaraman
   * Key: privileged information, based on DreamerV3
   * OpenReview: 10, 8, 8, 8
 
 * [TD-MPC2: Scalable, Robust World Models for Continuous Control](https://openreview.net/forum?id=Oxh5CstDJU)
-  * ExpEnv: [deepmind control suite](https://github.com/deepmind/dm_control) ⭐ 4,726 | 🐛 146 | 🌐 Python | 📅 2026-11-11, [Meta-World](https://github.com/Farama-Foundation/Metaworld) ⭐ 1,909 | 🐛 23 | 🌐 Python | 📅 2026-11-12, [maniskill2](https://github.com/haosulab/ManiSkill2) ⭐ 20 | 🐛 0 | 🌐 HTML | 📅 2025-05-28, [myosuite](https://github.com/MyoHub/myosuite) ⭐ 1,285 | 🐛 71 | 🌐 Python | 📅 2026-11-12
+  * ExpEnv: [deepmind control suite](https://github.com/deepmind/dm_control) ⭐ 4,726 | 🐛 146 | 🌐 Python | 📅 2026-11-11, [Meta-World](https://github.com/Farama-Foundation/Metaworld) ⭐ 1,909 | 🐛 23 | 🌐 Python | 📅 2026-11-12, [maniskill2](https://github.com/haosulab/ManiSkill2) ⭐ 20 | 🐛 0 | 🌐 HTML | 📅 2025-05-28, [myosuite](https://github.com/MyoHub/myosuite) ⭐ 1,286 | 🐛 88 | 🌐 Python | 📅 2026-11-13
   * Nicklas Hansen, Hao Su, Xiaolong Wang
   * Key: implicit world model, model predictive control, generalist td-mpc2
   * OpenReview: 8, 8, 8, 8
@@ -965,13 +965,13 @@ format:
   * OpenReview: 8, 6, 6, 6
 
 * [Differentiable Trajectory Optimization as a Policy Class for Reinforcement and Imitation Learning](https://openreview.net/forum?id=HL5P4H8eO2)
-  * ExpEnv: [deepmind control suite](https://github.com/deepmind/dm_control) ⭐ 4,726 | 🐛 146 | 🌐 Python | 📅 2026-11-11, [robomimic](https://github.com/ARISE-Initiative/robomimic) ⭐ 1,603 | 🐛 37 | 🌐 Python | 📅 2026-08-09, [maniskill](https://github.com/haosulab/ManiSkill2) ⭐ 20 | 🐛 0 | 🌐 HTML | 📅 2025-05-28
+  * ExpEnv: [deepmind control suite](https://github.com/deepmind/dm_control) ⭐ 4,726 | 🐛 146 | 🌐 Python | 📅 2026-11-11, [robomimic](https://github.com/ARISE-Initiative/robomimic) ⭐ 1,605 | 🐛 37 | 🌐 Python | 📅 2026-08-09, [maniskill](https://github.com/haosulab/ManiSkill2) ⭐ 20 | 🐛 0 | 🌐 HTML | 📅 2025-05-28
   * Weikang Wan, Yufei Wang, Zackory Erickson, David Held
   * Key: differentiable trajectory optimization
   * OpenReview: 10, 8, 8, 5
 
 * [DMBP: Diffusion model based predictor for robust offline reinforcement learning against state observation perturbations](https://openreview.net/forum?id=ZULjcYLWKe)
-  * ExpEnv: [d4rl](https://github.com/rail-berkeley/d4rl) ⭐ 1,713 | 🐛 107 | 🌐 Python | 📅 2024-11-18
+  * ExpEnv: [d4rl](https://github.com/rail-berkeley/d4rl) ⭐ 1,712 | 🐛 107 | 🌐 Python | 📅 2024-11-18
   * Zhihe YANG, Yunjian Xu
   * Key: conditional diffusion, offline RL
   * OpenReview: 8, 8, 6, 6
@@ -983,7 +983,7 @@ format:
   * OpenReview: 6, 6, 6, 6
 
 * [Reward-Consistent Dynamics Models are Strongly Generalizable for Offline Reinforcement Learning](https://openreview.net/forum?id=GSBHKiw19c)
-  * ExpEnv: [d4rl](https://github.com/rail-berkeley/d4rl) ⭐ 1,713 | 🐛 107 | 🌐 Python | 📅 2024-11-18, [NeoRL](https://github.com/polixir/NeoRL) ⭐ 138 | 🐛 1 | 🌐 Python | 📅 2024-11-21
+  * ExpEnv: [d4rl](https://github.com/rail-berkeley/d4rl) ⭐ 1,712 | 🐛 107 | 🌐 Python | 📅 2024-11-18, [NeoRL](https://github.com/polixir/NeoRL) ⭐ 138 | 🐛 1 | 🌐 Python | 📅 2024-11-21
   * Fan-Ming Luo, Tian Xu, Xingchen Cao, Yang Yu
   * Key: reward learning, offline RL
   * OpenReview: 8, 6, 6, 6
@@ -1028,17 +1028,17 @@ format:
   * Key: Contextualized World Models
 
 * [Conformal Prediction for Uncertainty-Aware Planning with Diffusion Dynamics Model](https://proceedings.neurips.cc/paper_files/paper/2023/file/fe318a2b6c699808019a456b706cd845-Paper-Conference.pdf)
-  * ExpEnv: [d4rl](https://github.com/rail-berkeley/d4rl) ⭐ 1,713 | 🐛 107 | 🌐 Python | 📅 2024-11-18, [Maze2D](https://github.com/Farama-Foundation/D4RL/tree/master/d4rl) ⭐ 1,713 | 🐛 107 | 🌐 Python | 📅 2024-11-18
+  * ExpEnv: [d4rl](https://github.com/rail-berkeley/d4rl) ⭐ 1,712 | 🐛 107 | 🌐 Python | 📅 2024-11-18, [Maze2D](https://github.com/Farama-Foundation/D4RL/tree/master/d4rl) ⭐ 1,712 | 🐛 107 | 🌐 Python | 📅 2024-11-18
   * Jiankai Sun, Yiqi Jiang, Jianing Qiu, Parth Nobel, Mykel J Kochenderfer, Mac Schwager
   * Key: Diffusion Dynamics Model
 
 * [LightZero: A Unified Benchmark for Monte Carlo Tree Search in General Sequential Decision Scenarios](https://openreview.net/forum?id=oIUXpBnyjv)
-  * ExpEnv: [board games](https://github.com/opendilab/LightZero/tree/main/zoo/board_games) ⭐ 1,661 | 🐛 51 | 🌐 Python | 📅 2026-10-15, [atari](https://github.com/openai/gym) ⚠️ Archived, [mujoco](https://github.com/openai/mujoco-py) ⚠️ Archived, [gobigger](https://github.com/opendilab/GoBigger) ⭐ 505 | 🐛 0 | 🌐 Python | 📅 2023-08-31
+  * ExpEnv: [board games](https://github.com/opendilab/LightZero/tree/main/zoo/board_games) ⭐ 1,662 | 🐛 51 | 🌐 Python | 📅 2026-10-15, [atari](https://github.com/openai/gym) ⚠️ Archived, [mujoco](https://github.com/openai/mujoco-py) ⚠️ Archived, [gobigger](https://github.com/opendilab/GoBigger) ⭐ 505 | 🐛 0 | 🌐 Python | 📅 2023-08-31
   * Yazhe Niu, Yuan Pu, Zhenjie Yang, Xueyan Li, Tong Zhou, Jiyuan Ren, Shuai Hu, Hongsheng Li, Yu Liu
   * Key: MCTS-style benchmark
 
 * [Diffusion Model is an Effective Planner and Data Synthesizer for Multi-Task Reinforcement Learning](https://openreview.net/forum?id=fAdMly4ki5)
-  * ExpEnv: [Meta-World](https://github.com/Farama-Foundation/Metaworld) ⭐ 1,909 | 🐛 23 | 🌐 Python | 📅 2026-11-12, [Maze2D](https://github.com/Farama-Foundation/D4RL/tree/master/d4rl) ⭐ 1,713 | 🐛 107 | 🌐 Python | 📅 2024-11-18
+  * ExpEnv: [Meta-World](https://github.com/Farama-Foundation/Metaworld) ⭐ 1,909 | 🐛 23 | 🌐 Python | 📅 2026-11-12, [Maze2D](https://github.com/Farama-Foundation/D4RL/tree/master/d4rl) ⭐ 1,712 | 🐛 107 | 🌐 Python | 📅 2024-11-18
   * Haoran He, Chenjia Bai, Kang Xu, Zhuoran Yang, Weinan Zhang, Dong Wang, Bin Zhao, Xuelong Li
   * Key: GPT-based diffusion model for planning and data synthesizing
 
@@ -1150,7 +1150,7 @@ format:
   * ExpEnv: [MovieLens dataset](https://www.tensorflow.org/datasets/catalog/movielens)
 
 * [Model-Bellman Inconsistency for Model-based Offline Reinforcement Learning](https://openreview.net/forum?id=rwLwGPdzDD)
-  * ExpEnv: [d4rl](https://github.com/rail-berkeley/d4rl) ⭐ 1,713 | 🐛 107 | 🌐 Python | 📅 2024-11-18, [NeoRL](https://github.com/polixir/NeoRL) ⭐ 138 | 🐛 1 | 🌐 Python | 📅 2024-11-21
+  * ExpEnv: [d4rl](https://github.com/rail-berkeley/d4rl) ⭐ 1,712 | 🐛 107 | 🌐 Python | 📅 2024-11-18, [NeoRL](https://github.com/polixir/NeoRL) ⭐ 138 | 🐛 1 | 🌐 Python | 📅 2024-11-21
   * Yihao Sun, Jiaji Zhang, Chengxing Jia, Haoxin Lin, Junyin Ye, Yang Yu
   * Key: pessimistic value estimation, theoretical analysis
 
@@ -1175,7 +1175,7 @@ format:
   * Key: posterior sampling, continual value network
 
 * [Model-based Offline Reinforcement Learning with Count-based Conservatism](https://openreview.net/forum?id=T5VlejGx7f)
-  * ExpEnv: [d4rl](https://github.com/rail-berkeley/d4rl) ⭐ 1,713 | 🐛 107 | 🌐 Python | 📅 2024-11-18
+  * ExpEnv: [d4rl](https://github.com/rail-berkeley/d4rl) ⭐ 1,712 | 🐛 107 | 🌐 Python | 📅 2024-11-18
   * Byeongchan Kim, Min-hwan Oh
   * Key: count estimation, theoretical analysis
 
@@ -1193,7 +1193,7 @@ format:
   * OpenReview: 8, 8, 8, 8
 
 * [Conservative Bayesian Model-Based Value Expansion for Offline Policy Optimization](https://openreview.net/forum?id=dNqxZgyjcYA)
-  * ExpEnv: [d4rl](https://github.com/rail-berkeley/d4rl) ⭐ 1,713 | 🐛 107 | 🌐 Python | 📅 2024-11-18
+  * ExpEnv: [d4rl](https://github.com/rail-berkeley/d4rl) ⭐ 1,712 | 🐛 107 | 🌐 Python | 📅 2024-11-18
   * Jihwan Jeong, Xiaoyu Wang, Michael Gimelfarb, Hyunwoo Kim, Baher Abdulhai, Scott Sanner
   * Key: model-based offline, bayesian posterior value estimate
   * OpenReview: 8, 8, 6, 6
@@ -1205,19 +1205,19 @@ format:
   * OpenReview: 10, 8, 6, 3
 
 * [CLARE: Conservative Model-Based Reward Learning for Offline Inverse Reinforcement Learning](https://openreview.net/forum?id=5aT4ganOd98)
-  * ExpEnv: [d4rl](https://github.com/rail-berkeley/d4rl) ⭐ 1,713 | 🐛 107 | 🌐 Python | 📅 2024-11-18
+  * ExpEnv: [d4rl](https://github.com/rail-berkeley/d4rl) ⭐ 1,712 | 🐛 107 | 🌐 Python | 📅 2024-11-18
   * Sheng Yue, Guanbo Wang, Wei Shao, Zhaofeng Zhang, Sen Lin, Ju Ren, Junshan Zhang
   * Key: offline IRL, reward extrapolation error
   * OpenReview: 8, 8, 6, 6
 
 * [Efficient Offline Policy Optimization with a Learned Model](https://openreview.net/forum?id=Yt-yM-JbYFO)
-  * ExpEnv: [atari dataset](https://github.com/deepmind/deepmind-research/tree/master/rl_unplugged) ⭐ 15,272 | 🐛 358 | 🌐 Jupyter Notebook | 📅 2026-06-17
+  * ExpEnv: [atari dataset](https://github.com/deepmind/deepmind-research/tree/master/rl_unplugged) ⭐ 15,273 | 🐛 358 | 🌐 Jupyter Notebook | 📅 2026-06-17
   * Zichen Liu, Siyi Li, Wee Sun Lee, Shuicheng YAN, Zhongwen Xu
   * Key: offline rl, analysis of MuZero Unplugged, one-step look-ahead policy improvement
   * OpenReview: 8, 6, 5
 
 * [Efficient Planning in a Compact Latent Action Space](https://openreview.net/forum?id=cA77NrVEuqn)
-  * ExpEnv: [d4rl dataset](https://github.com/rail-berkeley/d4rl) ⭐ 1,713 | 🐛 107 | 🌐 Python | 📅 2024-11-18
+  * ExpEnv: [d4rl dataset](https://github.com/rail-berkeley/d4rl) ⭐ 1,712 | 🐛 107 | 🌐 Python | 📅 2024-11-18
   * zhengyao jiang, Tianjun Zhang, Michael Janner, Yueying Li, Tim Rocktäschel, Edward Grefenstette, Yuandong Tian
   * Key: planning with VQ-VAE
   * OpenReview: 6, 6, 6, 6
@@ -1320,19 +1320,19 @@ format:
   * OpenReview: 7, 6, 5
 
 * [A Unified Framework for Alternating Offline Model Training and Policy Learning](https://openreview.net/forum?id=5yjM1sQ1uKZ)
-  * ExpEnv: [d4rl dataset](https://github.com/rail-berkeley/d4rl) ⭐ 1,713 | 🐛 107 | 🌐 Python | 📅 2024-11-18
+  * ExpEnv: [d4rl dataset](https://github.com/rail-berkeley/d4rl) ⭐ 1,712 | 🐛 107 | 🌐 Python | 📅 2024-11-18
   * Shentao Yang, Shujian Zhang, Yihao Feng, Mingyuan Zhou
   * Key: model-based, offline, marginal importance weight
   * OpenReview: 7, 6, 6, 5
 
 * [Model-Based Offline Reinforcement Learning with Pessimism-Modulated Dynamics Belief](https://openreview.net/forum?id=oDWyVsHBzNT)
-  * ExpEnv: [d4rl dataset](https://github.com/rail-berkeley/d4rl) ⭐ 1,713 | 🐛 107 | 🌐 Python | 📅 2024-11-18
+  * ExpEnv: [d4rl dataset](https://github.com/rail-berkeley/d4rl) ⭐ 1,712 | 🐛 107 | 🌐 Python | 📅 2024-11-18
   * Kaiyang Guo, Shao Yunfeng, Yanhui Geng
   * Key: model-based, offline
   * OpenReview: 8, 8, 7, 7
 
 * [Double Check Your State Before Trusting It: Confidence-Aware Bidirectional Offline Model-Based Imagination](https://openreview.net/forum?id=3e3IQMLDSLP)
-  * ExpEnv: [d4rl dataset](https://github.com/rail-berkeley/d4rl) ⭐ 1,713 | 🐛 107 | 🌐 Python | 📅 2024-11-18
+  * ExpEnv: [d4rl dataset](https://github.com/rail-berkeley/d4rl) ⭐ 1,712 | 🐛 107 | 🌐 Python | 📅 2024-11-18
   * Jiafei Lyu, Xiu Li, Zongqing Lu
   * Key: double check mechanism, bidirectional modeling, offline RL
   * OpenReview: 7, 6, 6
@@ -1392,19 +1392,19 @@ format:
   * OpenReview: 7, 6, 6
 
 * [Plan To Predict: Learning an Uncertainty-Foreseeing Model For Model-Based Reinforcement Learning](https://openreview.net/forum?id=L9YayWPcHA_)
-  * ExpEnv: [mujoco](https://github.com/openai/mujoco-py) ⚠️ Archived, [d4rl](https://github.com/rail-berkeley/d4rl) ⭐ 1,713 | 🐛 107 | 🌐 Python | 📅 2024-11-18
+  * ExpEnv: [mujoco](https://github.com/openai/mujoco-py) ⚠️ Archived, [d4rl](https://github.com/rail-berkeley/d4rl) ⭐ 1,712 | 🐛 107 | 🌐 Python | 📅 2024-11-18
   * Zifan Wu, Chao Yu, Chen Chen, Jianye Hao, Hankz Hankui Zhuo
   * Key: treat the model rollout process as a sequential decision making problem
   * OpenReview: 7, 7, 6, 6
 
 * [Joint Model-Policy Optimization of a Lower Bound for Model-Based RL](https://openreview.net/forum?id=LYfFj-Vk6lt)
-  * ExpEnv: [gridworld](https://github.com/dennybritz/reinforcement-learning/blob/master/lib/envs/gridworld.py) ⭐ 22,179 | 🐛 117 | 🌐 Jupyter Notebook | 📅 2023-07-13, [mujoco](https://github.com/openai/mujoco-py) ⚠️ Archived, [ROBEL manipulation](https://github.com/google-research/robel) ⚠️ Archived
+  * ExpEnv: [gridworld](https://github.com/dennybritz/reinforcement-learning/blob/master/lib/envs/gridworld.py) ⭐ 22,180 | 🐛 117 | 🌐 Jupyter Notebook | 📅 2023-07-13, [mujoco](https://github.com/openai/mujoco-py) ⚠️ Archived, [ROBEL manipulation](https://github.com/google-research/robel) ⚠️ Archived
   * Benjamin Eysenbach, Alexander Khazatsky, Sergey Levine, Russ Salakhutdinov
   * Key: unified objective for model-based RL
   * OpenReview: 8, 8, 7, 6
 
 * [RAMBO-RL: Robust Adversarial Model-Based Offline Reinforcement Learning](https://openreview.net/forum?id=nrksGSRT7kX)
-  * ExpEnv: [d4rl](https://github.com/rail-berkeley/d4rl) ⭐ 1,713 | 🐛 107 | 🌐 Python | 📅 2024-11-18
+  * ExpEnv: [d4rl](https://github.com/rail-berkeley/d4rl) ⭐ 1,712 | 🐛 107 | 🌐 Python | 📅 2024-11-18
   * Marc Rigter, Bruno Lacerda, Nick Hawes
   * Key: offline rl, model-based rl, two-player game, adversarial model training
   * OpenReview: 6, 6, 6, 4
@@ -1478,7 +1478,7 @@ format:
   * Key: model-based multi-agent, confidence bound
 
 * [Regularizing a Model-based Policy Stationary Distribution to Stabilize Offline Reinforcement Learning](https://arxiv.org/pdf/2206.07166.pdf)
-  * ExpEnv: [d4rl](https://github.com/rail-berkeley/d4rl) ⭐ 1,713 | 🐛 107 | 🌐 Python | 📅 2024-11-18
+  * ExpEnv: [d4rl](https://github.com/rail-berkeley/d4rl) ⭐ 1,712 | 🐛 107 | 🌐 Python | 📅 2024-11-18
   * Shentao Yang, Yihao Feng, Shujian Zhang, Mingyuan Zhou
   * Key: offline rl, model-based rl, stationary distribution regularization
 
@@ -1500,7 +1500,7 @@ format:
 <summary>Toggle</summary>
 
 * [Revisiting Design Choices in Offline Model Based Reinforcement Learning](https://openreview.net/forum?id=zz9hXVhf40)
-  * ExpEnv: [d4rl dataset](https://github.com/rail-berkeley/d4rl) ⭐ 1,713 | 🐛 107 | 🌐 Python | 📅 2024-11-18
+  * ExpEnv: [d4rl dataset](https://github.com/rail-berkeley/d4rl) ⭐ 1,712 | 🐛 107 | 🌐 Python | 📅 2024-11-18
   * Cong Lu, Philip Ball, Jack Parker-Holder, Michael Osborne, Stephen J. Roberts
   * Key: model-based offline, uncertainty quantification
   * OpenReview: 8, 8, 6, 6, 6
@@ -1524,7 +1524,7 @@ format:
   * OpenReview: 8, 8, 8, 6
 
 * [Model-Based Offline Meta-Reinforcement Learning with Regularization](https://openreview.net/forum?id=EBn0uInJZWh)
-  * ExpEnv: [d4rl dataset](https://github.com/rail-berkeley/d4rl) ⭐ 1,713 | 🐛 107 | 🌐 Python | 📅 2024-11-18
+  * ExpEnv: [d4rl dataset](https://github.com/rail-berkeley/d4rl) ⭐ 1,712 | 🐛 107 | 🌐 Python | 📅 2024-11-18
   * Sen Lin, Jialin Wan, Tengyu Xu, Yingbin Liang, Junshan Zhang
   * Key: model-based offline Meta-RL
   * OpenReview: 8, 6, 6, 6
@@ -1548,7 +1548,7 @@ format:
   * OpenReview: 8, 8, 8, 6
 
 * [Transfer RL across Observation Feature Spaces via Model-Based Regularization](https://openreview.net/forum?id=7KdAoOsI81C)
-  * ExpEnv: [CartPole, Acrobot and Cheetah-Run](https://github.com/openai/gym) ⚠️ Archived, [mujoco](https://github.com/openai/mujoco-py) ⚠️ Archived, [3DBall](https://github.com/Unity-Technologies/ml-agents) ⭐ 19,868 | 🐛 21 | 🌐 C# | 📅 2026-10-30
+  * ExpEnv: [CartPole, Acrobot and Cheetah-Run](https://github.com/openai/gym) ⚠️ Archived, [mujoco](https://github.com/openai/mujoco-py) ⚠️ Archived, [3DBall](https://github.com/Unity-Technologies/ml-agents) ⭐ 19,871 | 🐛 21 | 🌐 C# | 📅 2026-10-30
   * Yanchao Sun, Ruijie Zheng, Xiyao Wang, Andrew E Cohen, Furong Huang
   * Key: latent dynamics model, transfer RL
   * OpenReview: 8, 6, 5, 5
@@ -1578,7 +1578,7 @@ format:
   * OpenReview: 8, 8, 6, 6
 
 * [Pareto Policy Pool for Model-based Offline Reinforcement Learning](https://openreview.net/forum?id=OqcZu8JIIzS)
-  * ExpEnv: [d4rl dataset](https://github.com/rail-berkeley/d4rl) ⭐ 1,713 | 🐛 107 | 🌐 Python | 📅 2024-11-18
+  * ExpEnv: [d4rl dataset](https://github.com/rail-berkeley/d4rl) ⭐ 1,712 | 🐛 107 | 🌐 Python | 📅 2024-11-18
   * Yijun Yang, Jing Jiang, Tianyi Zhou, Jie Ma, Yuhui Shi
   * Key: model-based offline, model return-uncertainty trade-off
   * OpenReview: 8, 8, 6, 5
@@ -1609,7 +1609,7 @@ format:
   * OpenReview: 8, 6, 6
 
 * [COMBO: Conservative Offline Model-Based Policy Optimization](https://openreview.net/pdf?id=dUEpGV2mhf)
-  * ExpEnv: [d4rl dataset](https://github.com/rail-berkeley/d4rl) ⭐ 1,713 | 🐛 107 | 🌐 Python | 📅 2024-11-18
+  * ExpEnv: [d4rl dataset](https://github.com/rail-berkeley/d4rl) ⭐ 1,712 | 🐛 107 | 🌐 Python | 📅 2024-11-18
   * Tianhe Yu, Aviral Kumar, Rafael Rafailov, Aravind Rajeswaran, Sergey Levine, Chelsea Finn
   * Key: offline reinforcement learning, model-based reinforcement learning, deep reinforcement learning
   * OpenReview: 6, 7, 6, 8
@@ -1651,7 +1651,7 @@ format:
   * OpenReview: 7, 7, 7, 5
 
 * [Online and Offline Reinforcement Learning by Planning with a Learned Model](https://openreview.net/forum?id=HKtsGW-lNbw)
-  * ExpEnv: [atrai dataset, deepmind control suite dataset](https://github.com/deepmind/deepmind-research/tree/master/rl_unplugged) ⭐ 15,272 | 🐛 358 | 🌐 Jupyter Notebook | 📅 2026-06-17
+  * ExpEnv: [atrai dataset, deepmind control suite dataset](https://github.com/deepmind/deepmind-research/tree/master/rl_unplugged) ⭐ 15,273 | 🐛 358 | 🌐 Jupyter Notebook | 📅 2026-06-17
   * Julian Schrittwieser, Thomas K Hubert, Amol Mandhane, Mohammadamin Barekatain, Ioannis Antonoglou, David Silver
   * Key: muzero, reanalyse, offline
   * OpenReview: 8, 8, 7, 6
@@ -1669,7 +1669,7 @@ format:
   * OpenReview: 8, 7, 7, 6
 
 * [MOPO: Model-based Offline Policy Optimization](https://arxiv.org/abs/2005.13239)
-  * ExpEnv: [d4rl dataset](https://github.com/rail-berkeley/d4rl) ⭐ 1,713 | 🐛 107 | 🌐 Python | 📅 2024-11-18, halfcheetah-jump and ant-angle
+  * ExpEnv: [d4rl dataset](https://github.com/rail-berkeley/d4rl) ⭐ 1,712 | 🐛 107 | 🌐 Python | 📅 2024-11-18, halfcheetah-jump and ant-angle
   * Tianhe Yu, Garrett Thomas, Lantao Yu, Stefano Ermon, James Zou, Sergey Levine, Chelsea Finn, Tengyu Ma
   * Key: model-based, offline
   * OpenReview: None
@@ -1681,19 +1681,19 @@ format:
   * OpenReview: 7, 6, 6
 
 * [Offline Reinforcement Learning with Reverse Model-based Imagination](https://arxiv.org/abs/2110.00188)
-  * ExpEnv: [d4rl dataset](https://github.com/rail-berkeley/d4rl) ⭐ 1,713 | 🐛 107 | 🌐 Python | 📅 2024-11-18
+  * ExpEnv: [d4rl dataset](https://github.com/rail-berkeley/d4rl) ⭐ 1,712 | 🐛 107 | 🌐 Python | 📅 2024-11-18
   * Jianhao Wang, Wenzhe Li, Haozhe Jiang, Guangxiang Zhu, Siyuan Li, Chongjie Zhang
   * Key: model-based, offline
   * OpenReview: 7, 6, 6, 5
 
 * [Offline Model-based Adaptable Policy Learning](https://openreview.net/forum?id=lrdXc17jm6)
-  * ExpEnv: [d4rl dataset](https://github.com/rail-berkeley/d4rl) ⭐ 1,713 | 🐛 107 | 🌐 Python | 📅 2024-11-18
+  * ExpEnv: [d4rl dataset](https://github.com/rail-berkeley/d4rl) ⭐ 1,712 | 🐛 107 | 🌐 Python | 📅 2024-11-18
   * Xiong-Hui Chen, Yang Yu, Qingyang Li, Fan-Ming Luo, Zhiwei Tony Qin, Shang Wenjie, Jieping Ye
   * Key: model-based, offline
   * OpenReview: 6, 6, 6, 4
 
 * [Weighted model estimation for offline model-based reinforcement learning](https://openreview.net/pdf?id=zdC5eXljMPy)
-  * ExpEnv: pendulum, [d4rl dataset](https://github.com/rail-berkeley/d4rl) ⭐ 1,713 | 🐛 107 | 🌐 Python | 📅 2024-11-18
+  * ExpEnv: pendulum, [d4rl dataset](https://github.com/rail-berkeley/d4rl) ⭐ 1,712 | 🐛 107 | 🌐 Python | 📅 2024-11-18
   * Toru Hishinuma, Kei Senda
   * Key: model-based, offline, off-policy evaluation
   * OpenReview: 7, 6, 6, 6
@@ -1724,7 +1724,7 @@ format:
 <summary>Toggle</summary>
 
 * [Deployment-Efficient Reinforcement Learning via Model-Based Offline Optimization](https://arxiv.org/abs/2006.03647)
-  * ExpEnv: [d4rl dataset](https://github.com/rail-berkeley/d4rl) ⭐ 1,713 | 🐛 107 | 🌐 Python | 📅 2024-11-18
+  * ExpEnv: [d4rl dataset](https://github.com/rail-berkeley/d4rl) ⭐ 1,712 | 🐛 107 | 🌐 Python | 📅 2024-11-18
   * Tatsuya Matsushima, Hiroki Furuta, Yutaka Matsuo, Ofir Nachum, Shixiang Gu
   * Key: model-based, behavior cloning (warmup), trpo
   * OpenReview: 8, 7, 7, 5
@@ -1748,7 +1748,7 @@ format:
   * OpenReview: 7, 7, 7, 7
 
 * [Model-Based Offline Planning](https://arxiv.org/abs/2008.05556)
-  * ExpEnv: [RL Unplugged(RLU)](https://github.com/deepmind/deepmind-research/tree/master/rl_unplugged) ⭐ 15,272 | 🐛 358 | 🌐 Jupyter Notebook | 📅 2026-06-17, [d4rl dataset](https://github.com/rail-berkeley/d4rl) ⭐ 1,713 | 🐛 107 | 🌐 Python | 📅 2024-11-18
+  * ExpEnv: [RL Unplugged(RLU)](https://github.com/deepmind/deepmind-research/tree/master/rl_unplugged) ⭐ 15,273 | 🐛 358 | 🌐 Jupyter Notebook | 📅 2026-06-17, [d4rl dataset](https://github.com/rail-berkeley/d4rl) ⭐ 1,712 | 🐛 107 | 🌐 Python | 📅 2024-11-18
   * Arthur Argenson, Gabriel Dulac-Arnold
   * Key: model-based, offline
   * OpenReview: 8, 7, 5, 5
@@ -1766,7 +1766,7 @@ format:
   * OpenReview: 7, 7, 6, 5
 
 * [Representation Balancing Offline Model-based Reinforcement Learning](https://openreview.net/forum?id=QpNz8r_Ri2Y)
-  * ExpEnv: [d4rl dataset](https://github.com/rail-berkeley/d4rl) ⭐ 1,713 | 🐛 107 | 🌐 Python | 📅 2024-11-18
+  * ExpEnv: [d4rl dataset](https://github.com/rail-berkeley/d4rl) ⭐ 1,712 | 🐛 107 | 🌐 Python | 📅 2024-11-18
   * Byung-Jun Lee, Jongmin Lee, Kee-Eung Kim
   * Key: Representation Balancing MDP, model-based, offline
   * OpenReview: 7, 7, 7, 6
@@ -1854,12 +1854,12 @@ format:
   * ExpEnv: [nuScenes](), [OpenScene]()
 
 * [Masked Trajectory Models for Prediction, Representation, and Control](https://openreview.net/pdf?id=tT3LUdmzbd)
-  * ExpEnv: [d4rl](https://github.com/rail-berkeley/d4rl) ⭐ 1,713 | 🐛 107 | 🌐 Python | 📅 2024-11-18
+  * ExpEnv: [d4rl](https://github.com/rail-berkeley/d4rl) ⭐ 1,712 | 🐛 107 | 🌐 Python | 📅 2024-11-18
   * Philipp Wu, Arjun Majumdar, Kevin Stone, Yixin Lin, Igor Mordatch, Pieter Abbeel, Aravind Rajeswaran *ICLR 2023 Workshop RRL*
   * Key: offline RL, learning for control, sequence modeling
 
 * [World Models via Policy-Guided Trajectory Diffusion](https://arxiv.org/abs/2312.08533)
-  * ExpEnv: [deepmind control suite](https://github.com/deepmind/dm_control) ⭐ 4,726 | 🐛 146 | 🌐 Python | 📅 2026-11-11, [gridworld](https://github.com/dennybritz/reinforcement-learning/blob/master/lib/envs/gridworld.py) ⭐ 22,179 | 🐛 117 | 🌐 Jupyter Notebook | 📅 2023-07-13
+  * ExpEnv: [deepmind control suite](https://github.com/deepmind/dm_control) ⭐ 4,726 | 🐛 146 | 🌐 Python | 📅 2026-11-11, [gridworld](https://github.com/dennybritz/reinforcement-learning/blob/master/lib/envs/gridworld.py) ⭐ 22,180 | 🐛 117 | 🌐 Jupyter Notebook | 📅 2023-07-13
   * Marc Rigter, Jun Yamada, Ingmar Posner *Arxiv 2023*
   * Key: Diffusion model, world model
 
@@ -1906,4 +1906,4 @@ Awesome Model-Based RL is released under the Apache 2.0 license.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-12._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-13._
